@@ -39,4 +39,19 @@ $$p_z-p_z\ \ \text{Bonding Orbital and Antibonding Orbital}$$
 <img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Bond%20orbitals/pz-pz-%CF%80.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Bond%20orbitals/pz-pz-anti-%CF%80.png" width="200">
 </div>
 
+$$p_z-d_{xz}\ \ \text{Bonding Orbital and Antibonding Orbital}$$  
+<div align=center>
+<img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Bond%20orbitals/pz-dxz-%CF%80.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Bond%20orbitals/pz-dxz-anti-%CF%80.png" width="200">
+</div>
 
+$$d_{xz}-d_{xz}\ \ \text{Bonding Orbital and Antibonding Orbital}$$  
+<div align=center>
+<img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Bond%20orbitals/dxz-dxz-%CF%80.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Bond%20orbitals/dxz-dxz-anti-%CF%80.png" width="200">
+</div>
+
+## δ-Bond
+
+$$d_{yz}-d_{yz}\ \ \text{Bonding Orbital and Antibonding Orbital}$$  
+<div align=center>
+<img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Bond%20orbitals/dyz-dyz-%CE%B4.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Bond%20orbitals/dyz-dyz-anti-%CE%B4.png" width="200">
+</div>
