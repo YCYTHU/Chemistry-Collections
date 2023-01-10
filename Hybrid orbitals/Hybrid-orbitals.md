@@ -72,6 +72,30 @@ $$
 
 $$sp^3d\text{ hybridization}$$
 
+$$
+  \begin{bmatrix}
+   h_1\\
+   h_2\\
+   h_3\\
+   h_4\\
+   h_5
+  \end{bmatrix}=
+  \begin{bmatrix}
+  \frac{1}{\sqrt3} & \frac{2}{\sqrt6} & 0 & 0 & 0\\
+  \frac{1}{\sqrt3} & -\frac{1}{\sqrt6} & \frac{1}{\sqrt2} & 0 & 0\\
+  \frac{1}{\sqrt3} & -\frac{1}{\sqrt6} & -\frac{1}{\sqrt2} & 0 & 0\\
+  0 & 0 & 0 & \frac{1}{\sqrt2} & \frac{1}{\sqrt2}\\
+  0 & 0 & 0 & \frac{1}{\sqrt2} & -\frac{1}{\sqrt2}
+  \end{bmatrix}
+  \begin{bmatrix}
+   s\\
+   p_x\\
+   p_y\\
+   p_z\\
+   d_{z^2}\\
+  \end{bmatrix}
+$$
+
 ## $\bf T_d$ (Tetrahedron)
 
 $$sp^3\text{ hybridization}$$
