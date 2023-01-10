@@ -181,3 +181,32 @@ $$
 <div align=center>
 <img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd3_1.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd3_2.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd3_3.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd3_4.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd3_all.png" width="200">
 </div>
+
+$$sp^3d^2\text{ hybridization}$$
+
+$$
+  \begin{bmatrix}
+   h_1\\
+   h_2\\
+   h_3\\
+   h_4\\
+   h_5\\
+   h_6
+  \end{bmatrix}=
+  \begin{bmatrix}
+  \frac{1}{\sqrt6} & \frac{1}{\sqrt2} & 0 & 0 & -\frac{1}{\sqrt{12}} & \frac12\\
+  \frac{1}{\sqrt6} & -\frac{1}{\sqrt2} & 0 & 0 & -\frac{1}{\sqrt{12}} & \frac12\\ 
+  \frac{1}{\sqrt6} & 0 & \frac{1}{\sqrt2} & 0 & -\frac{1}{\sqrt{12}} & -\frac12\\
+  \frac{1}{\sqrt6} & 0 & -\frac{1}{\sqrt2} & 0 & -\frac{1}{\sqrt{12}} & -\frac12\\
+  \frac{1}{\sqrt6} & 0 & 0 & \frac{1}{\sqrt2} & \frac{2}{\sqrt{12}} & 0\\
+  \frac{1}{\sqrt6} & 0 & 0 & -\frac{1}{\sqrt2} & \frac{2}{\sqrt{12}} & 0
+  \end{bmatrix}
+  \begin{bmatrix}
+   s\\
+   p_x\\
+   p_y\\
+   p_z\\
+   d_{z^2}\\
+   d_{x^2-y^2}
+  \end{bmatrix}
+$$
