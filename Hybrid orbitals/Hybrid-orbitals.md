@@ -55,7 +55,7 @@ $$
    h_3
   \end{bmatrix}=
   \begin{bmatrix}
-  \frac{1}{\sqrt3} & \sqrt{\frac23} & 0\\
+  \frac{1}{\sqrt3} & \frac{2}{\sqrt6} & 0\\
   \frac{1}{\sqrt3} & -\frac{1}{\sqrt6} & \frac{1}{\sqrt2}\\
   \frac{1}{\sqrt3} & -\frac{1}{\sqrt6} & -\frac{1}{\sqrt2}
   \end{bmatrix}
@@ -112,7 +112,7 @@ $$
    h_3
   \end{bmatrix}=
   \begin{bmatrix}
-  \frac{1}{\sqrt3} & \sqrt{\frac23} & 0\\
+  \frac{1}{\sqrt3} & \frac{2}{\sqrt6} & 0\\
   \frac{1}{\sqrt3} & -\frac{1}{\sqrt6} & \frac{1}{\sqrt2}\\
   \frac{1}{\sqrt3} & -\frac{1}{\sqrt6} & -\frac{1}{\sqrt2}
   \end{bmatrix}
