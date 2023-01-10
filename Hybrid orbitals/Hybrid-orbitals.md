@@ -44,7 +44,7 @@ $$
 <img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd_1.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd_2.png" width="200">
 </div>
 
-## $\bf D_{3h}$ (Trigonal planar)
+## $\bf D_{3h}$ (Trigonal planar & trigonal bipyramid)
 
 $$sp^2\text{ hybridization}$$
 
@@ -69,6 +69,8 @@ $$
 <div align=center>
 <img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp2_1.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp2_2.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp2_3.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp2_all.png" width="200">
 </div>
+
+$$sp^3d\text{ hybridization}$$
 
 ## $\bf T_d$ (Tetrahedron)
 
