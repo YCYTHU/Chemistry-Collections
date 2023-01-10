@@ -96,6 +96,10 @@ $$
   \end{bmatrix}
 $$
 
+<div align=center>
+<img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp2_1.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp2_2.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp2_3.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_4.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_5.png" width="200">
+</div>
+
 ## $\bf T_d$ (Tetrahedron)
 
 $$sp^3\text{ hybridization}$$
