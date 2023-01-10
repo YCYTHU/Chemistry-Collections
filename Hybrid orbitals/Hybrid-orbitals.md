@@ -1,1 +1,4 @@
 # Hybrid orbitals
+
+## Linear
+## Tetrahedron
