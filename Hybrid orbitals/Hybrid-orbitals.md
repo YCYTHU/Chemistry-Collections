@@ -98,6 +98,8 @@ $$
 <img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3_1.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3_2.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3_3.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3_4.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3_all.png" width="200">
 </div>
 
+## $\bf O_h$ (Octahedron & Cube)
+
 $$sd^3\text{ hybridization}$$
 $$
   \begin{bmatrix}
