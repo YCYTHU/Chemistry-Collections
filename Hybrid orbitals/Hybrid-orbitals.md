@@ -73,6 +73,7 @@ $$
 ## $\bf T_d$ (Tetrahedron)
 
 $$sp^3\text{ hybridization}$$
+
 $$
   \begin{bmatrix}
    h_1\\
@@ -100,7 +101,32 @@ $$
 
 ## $\bf O_h$ (Octahedron & Cube)
 
+$$sd^2\text{ hybridization}$$
+
+$$
+  \begin{bmatrix}
+   h_1\\
+   h_2\\
+   h_3
+  \end{bmatrix}=
+  \begin{bmatrix}
+  \frac{1}{\sqrt3} & \sqrt{\frac23} & 0\\
+  \frac{1}{\sqrt3} & -\frac{1}{\sqrt6} & \frac{1}{\sqrt2}\\
+  \frac{1}{\sqrt3} & -\frac{1}{\sqrt6} & -\frac{1}{\sqrt2}
+  \end{bmatrix}
+  \begin{bmatrix}
+   s\\
+   d_{z^2}\\
+   d_{x^2-y^2}
+  \end{bmatrix}
+$$
+
+<div align=center>
+<img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd2_1.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd2_2.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd2_3.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd2_all.png" width="200">
+</div>
+
 $$sd^3\text{ hybridization}$$
+
 $$
   \begin{bmatrix}
    h_1\\
