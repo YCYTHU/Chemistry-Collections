@@ -102,6 +102,8 @@ $$
 
 ## $\bf D_{4h}$ (Square planar)
 
+$$sp^2d\text{ hybridization}$$
+
 $$
   \begin{bmatrix}
    h_1\\
