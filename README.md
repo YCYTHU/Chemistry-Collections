@@ -20,6 +20,8 @@
 - $\rm D_{3h}$ (Trigonal planar & trigonal bipyramid)
   - $sp^2$
   - $sp^3d$
+- $\rm D_{4h}$ (Square planar)
+  - $sp^2d$
 - $\rm T_d$ (Tetrahedron)
   - $sp^3$
 - $\rm O_h$ (Octahedron & Cube)
