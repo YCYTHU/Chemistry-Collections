@@ -97,7 +97,34 @@ $$
 $$
 
 <div align=center>
-<img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_3.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_1.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_2.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_4.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_5.png" width="200">
+<img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_1.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_2.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_3.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_4.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_5.png" width="200">
+</div>
+
+## $\bf D_{4h}$ (Square planar)
+
+$$
+  \begin{bmatrix}
+   h_1\\
+   h_2\\
+   h_3\\
+   h_4
+  \end{bmatrix}=
+  \begin{bmatrix}
+  \frac12 & \frac{1}{\sqrt2} & 0 & \frac12\\
+  \frac12 & 0 & \frac{1}{\sqrt2} & -\frac12\\
+  \frac12 & -\frac{1}{\sqrt2} & 0 & \frac12\\
+  \frac12 & 0 & -\frac{1}{\sqrt2} & -\frac12\\  
+  \end{bmatrix}
+  \begin{bmatrix}
+   s\\
+   p_x\\
+   p_y\\
+   d_{x^2-y^2}
+  \end{bmatrix}
+$$
+
+<div align=center>
+<img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp2d_1.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp2d_2.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp2d_3.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp2d_4.png" width="200">
 </div>
 
 ## $\bf T_d$ (Tetrahedron)
