@@ -231,6 +231,8 @@ $$
 
 ## $d^4s\text{ hybridization (Square pyramidal)}$
 
+## $d^5s\text{ hybridization (Trigonal prismatic)}$
+
 ## $sp^3d^2\text{ hybridization (Octaheral)}$
 
 $$
