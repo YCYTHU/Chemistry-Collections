@@ -102,7 +102,7 @@ $$
 
 ## $\bf D_{4h}$ (Square planar)
 
-$$sp^2d\text{ hybridization}$$
+$$dsp^2\text{ hybridization}$$
 
 $$
   \begin{bmatrix}
