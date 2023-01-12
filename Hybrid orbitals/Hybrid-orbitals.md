@@ -87,7 +87,7 @@ $$
 $$
 
 <div align=center>
-<img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd2_1.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd2_2.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd2_3.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sd2_all.png" width="200">
+<img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d2s_1.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d2s_2.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d2s_3.png" width="200">
 </div>
 
 ## $p^3\text{ hybridization (Trigonal Pyramidal)}$
