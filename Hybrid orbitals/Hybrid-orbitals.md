@@ -348,7 +348,7 @@ $$
 <img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d5s_1.png" width="160"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d5s_2.png" width="160"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d5s_3.png" width="160"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d5s_4.png" width="160"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d5s_5.png" width="160"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d5s_6.png" width="160">
 </div>
 
-## $sp^3d^2\text{ hybridization (Octaheral)}$
+## $sp^3d^2\text{ hybridization (Octahedral)}$
 
 $$
   \begin{bmatrix}
