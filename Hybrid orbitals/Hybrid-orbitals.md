@@ -317,6 +317,37 @@ $$
 
 ## $d^5s\text{ hybridization (Trigonal prismatic)}$
 
+$$
+  \begin{bmatrix}
+   h_1\\
+   h_2\\
+   h_3\\
+   h_4\\
+   h_5\\
+   h_6
+  \end{bmatrix}=
+  \begin{bmatrix}
+  \frac{1}{\sqrt3} & 0 & \frac{2}{\sqrt6} & 0 & 0 & 0\\
+  \frac{1}{\sqrt3} & 0 & -\frac{1}{\sqrt6} & \frac{1}{\sqrt2} & 0 & 0\\ 
+  \frac{1}{\sqrt3} & 0 & -\frac{1}{\sqrt6} & -\frac{1}{\sqrt2} & 0 & 0\\ 
+  0 & \frac{1}{\sqrt3} & 0 & 0 & \frac{2}{\sqrt6} & 0\\
+  0 & \frac{1}{\sqrt3} & 0 & 0 & -\frac{1}{\sqrt6} & \frac{1}{\sqrt2}\\
+  0 & \frac{1}{\sqrt3} & 0 & 0 & -\frac{1}{\sqrt6} & -\frac{1}{\sqrt2}
+  \end{bmatrix}
+  \begin{bmatrix}
+   s\\
+   d_{z^2}\\
+   d_{x^2-y^2}\\
+   d_{xy}\\
+   d_{xz}\\
+   d_{yz}
+  \end{bmatrix}
+$$
+
+<div align=center>
+<img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d5s_1.png" width="160"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d5s_2.png" width="160"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d5s_3.png" width="160"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d5s_4.png" width="160"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d5s_5.png" width="160"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d5s_6.png" width="160">
+</div>
+
 ## $sp^3d^2\text{ hybridization (Octaheral)}$
 
 $$
