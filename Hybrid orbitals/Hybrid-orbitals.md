@@ -287,6 +287,34 @@ $$
 
 ## $d^4s\text{ hybridization (Square pyramidal)}$
 
+$$
+  \begin{bmatrix}
+   h_1\\
+   h_2\\
+   h_3\\
+   h_4\\
+   h_5
+  \end{bmatrix}=
+  \begin{bmatrix}
+  \frac12 & \frac{1}{\sqrt2} & 0 & \frac12 & 0\\
+  \frac12 & 0 & \frac{1}{\sqrt2} & -\frac12 & 0\\
+  \frac12 & -\frac{1}{\sqrt2} & 0 & \frac12 & 0\\
+  \frac12 & 0 & -\frac{1}{\sqrt2} & -\frac12 & 0\\
+  0 & 0 & 0 & 0 & 1
+  \end{bmatrix}
+  \begin{bmatrix}
+   s\\
+   d_{xz}\\
+   d_{yz}\\
+   d_{x^2-y^2}\\
+   d_{z^2}
+  \end{bmatrix}
+$$
+
+<div align=center>
+<img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d4s_1.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d4s_2.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d4s_3.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d4s_4.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d2sp2_5.png" width="200">
+</div>
+
 ## $d^5s\text{ hybridization (Trigonal prismatic)}$
 
 ## $sp^3d^2\text{ hybridization (Octaheral)}$
