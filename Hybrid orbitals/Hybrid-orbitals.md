@@ -337,10 +337,10 @@ $$
   \begin{bmatrix}
    s\\
    d_{z^2}\\
-   d_{x^2-y^2}\\
-   d_{xy}\\
    d_{xz}\\
-   d_{yz}
+   d_{yz}\\
+   d_{x^2-y^2}\\
+   d_{xy}
   \end{bmatrix}
 $$
 
