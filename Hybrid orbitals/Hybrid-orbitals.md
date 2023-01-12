@@ -257,6 +257,34 @@ $$
 
 ## $d^3sp\text{ hybridization (Trigonal bipyramidal)}$
 
+$$
+  \begin{bmatrix}
+   h_1\\
+   h_2\\
+   h_3\\
+   h_4\\
+   h_5
+  \end{bmatrix}=
+  \begin{bmatrix}
+  \frac{1}{\sqrt3} & \frac{2}{\sqrt6} & 0 & 0 & 0\\
+  \frac{1}{\sqrt3} & -\frac{1}{\sqrt6} & \frac{1}{\sqrt2} & 0 & 0\\
+  \frac{1}{\sqrt3} & -\frac{1}{\sqrt6} & -\frac{1}{\sqrt2} & 0 & 0\\
+  0 & 0 & 0 & \frac{1}{\sqrt2} & \frac{1}{\sqrt2}\\
+  0 & 0 & 0 & \frac{1}{\sqrt2} & -\frac{1}{\sqrt2}
+  \end{bmatrix}
+  \begin{bmatrix}
+   s\\
+   d_{x^2-y^2}\\
+   d_{xy}\\
+   p_z\\
+   d_{z^2}\\
+  \end{bmatrix}
+$$
+
+<div align=center>
+<img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d3sp_1.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d3sp_2.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/d3sp_3.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_4.png" width="200"><img src="https://github.com/Jatro-Tao/Chemistry-Collections/raw/main/Hybrid%20orbitals/sp3d_5.png" width="200">
+</div>
+
 ## $d^4s\text{ hybridization (Square pyramidal)}$
 
 ## $d^5s\text{ hybridization (Trigonal prismatic)}$
