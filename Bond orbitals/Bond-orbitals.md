@@ -1,4 +1,4 @@
-# Bond orbitals
+# Bonding and antibonding orbitals
 
 ## σ-Bond
 
