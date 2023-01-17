@@ -1,1 +1,3 @@
-# Character tables
+# Character tables & Product tables
+
+- $C_1$
