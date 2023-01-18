@@ -16,7 +16,7 @@
 <details>
 <summary>$\ \bf C_s$</summary>
 
-|         | $\bf E$ | $\rm\boldsymbol{\sigma_h}$ |  Linear , Rotations  |  Quadratic       |     Cubic      |
+|         | $\bf E$ | $\bf\boldsymbol\sigma_h$ |  Linear , Rotations  |  Quadratic       |     Cubic      |
 |  :---:  |  :---:  |          :---:             |  :---:               | :---:            | :---:          |
 | $\bf A'$|    1    |             1              |  $x,y,R_z$           | $x^2,y^2,z^2,xy$ | $xz^2,yz^2,x(x^2-3y^2),y(3x^2-y^2)$ |
 |$\bf A''$|    1    |            -1              |  $z,R_x,R_y$         | $xz,yz$          | $z^3,xyz,z(x^2-y^2)$ |
@@ -146,3 +146,60 @@ $\epsilon=\exp(\pi i/3)$
 |$\bf B_1$     | $\rm B_1$ |   $\rm B_2$   |$\rm A_1$     |$\rm A_2$       |
 |$\bf B_2$     | $\rm B_2$ |   $\rm B_1$   |$\rm A_2$     |$\rm A_1$       |
 </details>
+
+<details>
+<summary>$\ \bf C_{3v}$</summary>
+
+|           | $\bf E$ |    $\bf 2C_3$   | $\bf 3\boldsymbol\sigma_v$ |  Linear , Rotations   |             Quadratic     |     Cubic   |
+|  :---:    |  :---:  |       :---:     |          :---:                |         :---:         |        :---:              |  :---:      |
+| $\bf A_1$ |    1    |         1       |                1              |       $z$             |           $x^2+y^2,z^2$   |     $z^3,x(x^2-3y^2)$   |
+| $\bf A_2$ |    1    |         1       |               -1              |      $R_z$            |                           | $y(3x^2-y^2)$|
+|  $\bf E$  |   2     |        -1       |              0                |   $(x,y),(R_x,R_y)$   |  $(x^2-y^2,xy),(xz,yz)$   |$(xz^2,yz^2),[xyz,z(x^2-y^2)]$
+
+|            | $\bf A_1$ | $\bf A_2$       | $\bf E$      |
+|  :---:     | :---:     |  :---:          | :---:        |
+| $\bf A_1$  | $\rm A_1$ |   $\rm A_2$     |$\rm E$       |
+|$\bf A_2$   | $\rm A_2$ |   $\rm A_1$     |$\rm E$       |
+| $\bf E$    | $\rm E$   |      $\rm E$    |$\rm A_1\oplus A_2\oplus E$    |
+</details>
+
+<details>
+<summary>$\ \bf C_{4v}$</summary>
+
+|             | $\bf E$ |    $\bf 2C_4$   | $\bf C_2$ |$\bf 2\boldsymbol\sigma_v$|$\bf 2\boldsymbol\sigma_d$|Linear , Rotations|      Quadratic     |     Cubic   |
+|  :---:      |  :---:  |       :---:     |  :---:    |    :---:       |       :---:    |    :---:         |        :---:       |  :---:      |
+|   $\bf A_1$ |    1    |         1       |       1   |       1        |          1     |     $z$      |    $x^2+y^2,z^2$   |     $z^3$   |
+|   $\bf A_2$ |    1    |         1       |       1   |      -1        |         -1     |     $R_z$    |     |     |
+|   $\bf B_1$ |    1    |        -1       |       1   |       1        |         -1     |    | $x^2-y^2$  | $z(x^2-y^2)$ |
+|   $\bf B_2$ |    1    |        -1       |       1   |      -1        |          1     |    | $xy$  | $xyz$ |
+|   $\bf E$   |    2    |         0       |      -2   |       0        |          0     |  $(x,y),(R_x,R_y)$  | $(xz,yz)$  | $(xz^2,yz^2),[x(x^2-3y^2),y(3x^2-y^2)]$ |
+  
+  
+|            | $\bf A_1$ |     $\bf A_2$    |  $\bf B_1$    |  $\bf B_2$    |  $\bf E$    |
+|  :---:     | :---:     |          :---:   |       :---:   |      :---:    |     :---:   |
+| $\bf A_1$  | $\rm A_1$ |   $\rm A_2$      |  $\rm B_1$    | $\rm B_2$     | $\rm E$     |
+|$\bf A_2$   | $\rm A_2$ |   $\rm A_1$      |  $\rm B_2$    | $\rm B_1$     | $\rm E$     |
+| $\bf B_1$  | $\rm B_1$ |   $\rm B_2$      |  $\rm A_1$    | $\rm A_2$     | $\rm E$     |
+| $\bf B_2$  | $\rm B_2$ |   $\rm B_1$      |  $\rm A_2$    | $\rm A_1$     | $\rm E$     |
+| $\bf E$    | $\rm E$   |   $\rm E$        |  $\rm E$      | $\rm E$       | $\rm A_1\oplus A_2\oplus B_1\oplus B_2$     |
+</details>
+
+<details>
+<summary>$\ \bf C_{5v}$</summary>
+
+|         | $\bf E$ |  $\bf 2C_5$ | $\bf 2C_5^2$ | $\bf 5\boldsymbol\sigma_v$ |  Linear , Rotations  |   Quadratic  | Cubic |
+|  :---:    |  :---:|     :---:   |     :---:    |    :---:       |        :---:     |        :---:       |             :---:      |
+| $\bf A_1$ |    1  |         1   |       1      |       1        |        $z$       |    $x^2+y^2,z^2$   |     $z^3$   |
+| $\bf A_2$ |    1  |      1      |      1       |       -1       |        $R_z$     |                    |             |
+|$\bf E_1$  |    2  |$2\cos(2\pi/5)$|$2\cos(4\pi/5)$|      0         |$(x,y),(R_x,R_y)$ |        $(xz,yz)$   | $xz^2,yz^2$ |
+|$\bf E_2$  |   2   |$2\cos(4\pi/5)$|$2\cos(2\pi/5)$|       0        |           |        $(x^2-y^2,xy)$  |$[xyz,z(x^2-y^2)],[x(x^2-3y^2),y(3x^2-y^2)$      |
+
+|              | $\bf A_1$ |   $\bf A_2$   | $\bf E_1$    | $\bf E_2$      |
+|  :---:       |   :---:   |  :---:        | :---:        |   :---:        |
+| $\bf A_1$    | $\rm A_1$ |   $\rm A_2$   |$\rm E_1$     |$\rm E_2$       |
+| $\bf A_2$    | $\rm A_2$ |   $\rm A_1$   |$\rm E_1$     |$\rm E_2$       |
+|$\bf E_1$     | $\rm E_1$ |   $\rm E_1$   |$\rm A_1\oplus A_2\oplus E_2$     |$\rm E_1\oplus E_2$       |
+|$\bf E_2$     | $\rm E_2$ |   $\rm E_1$   |$\rm E_1\oplus E_2$     |$\rm A_1\oplus A_2\oplus E_2$       |
+</details>
+
+
