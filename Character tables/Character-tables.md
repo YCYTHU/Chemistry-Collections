@@ -1,5 +1,6 @@
 # Character tables & Product tables
 
+## $\text{Low-Symmetry Point Groups}$
 <details>
 <summary>$\ \bf C_1$</summary>
 
@@ -40,6 +41,8 @@
 | $\bf A_u$  | $\rm A_u$ | $\rm A_g$    |
 </details>
 
+## $\rm C_n\text{ Point Groups}$
+
 <details>
 <summary>$\ \bf C_2$</summary>
 
@@ -59,10 +62,10 @@
 
 |         | $\bf E$ |    $\bf C_3$    |   $\bf C_3^2$    |    Linear , Rotations   |         Quadratic       |     Cubic   |
 |  :---:  |  :---:  |       :---:     |  :---:           |           :---:         |        :---:            |  :---:      |
-| $\bf A$ |    1    |         1       |       1          |        $z,R_z$          |        $x^2+y^2,z^2$    |$z^3,x(x^2-3y^2),y(3y^2-x^2)$|
-|$\bf E$  | 1<br>1  | $e$ <br> $e^*$  | $e^*$ <br> $e$   | $(x,y)(R_x,R_y)$        | $(x^2-y^2,xy) (xz,yz)$   |$(xz^2,yz^2)[xyz,z(x^2-y^2)]$
+| $\bf A$ |    1    |         1       |       1          |        $z,R_z$          |        $x^2+y^2,z^2$    |$z^3,x(x^2-3y^2),y(3x^2-y^2)$|
+|$\bf E$  | 1<br>1  | $\epsilon$ <br> $\epsilon^*$  | $\epsilon^*$ <br> $\epsilon$   | $(x,y),(R_x,R_y)$       | $(x^2-y^2,xy),(xz,yz)$  |$(xz^2,yz^2),[xyz,z(x^2-y^2)]$|
 
-$e=exp(2\pi i/3)$
+$\epsilon=\exp(2\pi i/3)$
 
 |            | $\bf A$ |  $\bf E$      |
 |  :---:     | :---:   |  :---:        |
@@ -77,7 +80,7 @@ $e=exp(2\pi i/3)$
 |  :---:  |  :---:  |       :---:     |  :---:    |    :---:       |        :---:         |        :---:       |  :---:      |
 | $\bf A$ |    1    |         1       |       1   |       1        |        $z,R_z$       |    $x^2+y^2,z^2$   |     $z^3$   |
 | $\bf B$ |    1    |     -1          |     1     |       -1       |                      |     $x^2-y^2,xy$   | $xyz,z(x^2-y^2)$|
-|$\bf E$  | 1<br>1  | $i$ <br> $-i$   |-1 <br> -1 | $-i$ <br> $i$  |$(x,y)(R_x,R_y)$      |        $(xz,yz)$   |$(xz^2,yz^2)[x(x^2-3y^2),y(3y^2-x^2)]$
+|$\bf E$  | 1<br>1  | $i$ <br> $-i$   |-1 <br> -1 | $-i$ <br> $i$  |$(x,y),(R_x,R_y)$      |        $(xz,yz)$   |$(xz^2,yz^2),[x(x^2-3y^2),y(3x^2-y^2)]$
 
 |            | $\bf A$ | $\bf B$       | $\bf E$      |
 |  :---:     | :---:   |  :---:        | :---:        |
@@ -86,3 +89,60 @@ $e=exp(2\pi i/3)$
 | $\bf E$    | $\rm E$ |    $\rm E$    |$\rm 2A\oplus2B $    |
 </details>
 
+<details>
+<summary>$\ \bf C_5$</summary>
+
+|         | $\bf E$ |    $\bf C_5$    |$\bf C_5^2$|   $\bf C_5^3$  |   $\bf C_5^4$  |Linear , Rotations|      Quadratic     |     Cubic   |
+|  :---:  |  :---:  |       :---:     |  :---:    |    :---:       |       :---:    |    :---:         |        :---:       |  :---:      |
+| $\bf A$ |    1    |         1       |       1   |       1        |          1     |     $z,R_z$      |    $x^2+y^2,z^2$   |     $z^3$   |
+| $\bf E_1$ | 1 <br> 1|$\epsilon$<br>$\epsilon^*$|$\epsilon^2$<br>$\epsilon^{2*}$|$\epsilon^{2*}$<br>$\epsilon^2$|$\epsilon^*$<br>$\epsilon$| $(x,y),(R_x,R_y)$         | $(xz,yz)$ | $(xz^2,yz^2)$|
+|$\bf E_2$  |1 <br> 1|$\epsilon^2$<br>$\epsilon^{2*}$|$\epsilon^*$<br>$\epsilon$|$\epsilon$<br>$\epsilon^*$|$\epsilon^{2*}$<br>$\epsilon^2$|  |        $(x^2-y^2,xy)$   |$[xyz,z(x^2-y^2)],[x(x^2-3y^2),y(3x^2-y^2)]$
+
+$\epsilon=\exp(2\pi i/5)$
+  
+|            | $\bf A$ |         $\bf E_1$        |       $\bf E_2$    |
+|  :---:     | :---:   |           :---:          |       :---:        |
+| $\bf A$    | $\rm A$ |           $\rm E_1$      |      $\rm E_2$     |
+|$\bf E_1$   |$\rm E_1$|   $\rm 2A\oplus E_2$     |$\rm E_1\oplus E_2$ |
+| $\bf E_2$  |$\rm E_2$|    $\rm E_1\oplus E_2$   |$\rm 2A\oplus E_1 $ |
+</details>
+
+<details>
+<summary>$\ \bf C_6$</summary>
+
+|         | $\bf E$ |  $\bf C_6$  |$\bf C_3$  |   $\bf C_2$  | $\bf C_3^2$  | $\bf C_6^5$|Linear , Rotations|      Quadratic     |     Cubic   |
+|  :---:  |  :---:  |   :---:     |  :---:    |    :---:     |     :---:    |    :---:   | :---:   |        :---:       |  :---:      |
+| $\bf A$ |    1    |      1      |       1   |       1      |       1      |      1     |$z,R_z$  |    $x^2+y^2,z^2$   |     $z^3$   |
+| $\bf B$ |    1    |     -1      |       1   |      -1      |       1      |     -1     |         |                    |     $x(x^2-3y^2),y(3x^2-y^2)$   |
+| $\bf E_1$ | 1 <br> 1|$\epsilon$<br>$\epsilon^*$|$-\epsilon^*$<br>$-\epsilon$|-1<br>-1|$-\epsilon$<br>$-\epsilon^*$|$\epsilon^*$<br>$\epsilon$| $(x,y),(R_x,R_y)$         | $(xz,yz)$ | $(xz^2,yz^2)$|
+|$\bf E_2$  |1 <br> 1|$-\epsilon^*$<br>$-\epsilon$|$-\epsilon$<br>$-\epsilon^*$|1<br>1|$-\epsilon^*$<br>$-\epsilon$|$-\epsilon$<br>$-\epsilon^*$|  |        $(x^2-y^2,xy)$   |$[xyz,z(x^2-y^2)]$
+
+$\epsilon=\exp(\pi i/3)$
+  
+|            | $\bf A$ | $\bf B$ |         $\bf E_1$        |       $\bf E_2$    |
+|  :---:     | :---:   | :---:   |           :---:          |       :---:        |
+| $\bf A$    | $\rm A$ |  $\rm B$|           $\rm E_1$      |      $\rm E_2$     |
+| $\bf B$    | $\rm B$ |  $\rm A$|           $\rm E_2$      |      $\rm E_1$     |  
+|$\bf E_1$   |$\rm E_1$|$\rm E_2$|   $\rm 2A\oplus E_2$     |$\rm 2B\oplus E_1$  |
+| $\bf E_2$  |$\rm E_2$|$\rm E_1$|    $\rm 2B\oplus E_1$    |$\rm 2A\oplus E_2 $ |
+</details>
+
+## $\rm C_{nv}\text{ Point Groups}$
+
+<details>
+<summary>$\ \bf C_{2v}$</summary>
+
+|         | $\bf E$ |  $\bf C_2$  | $\rm\boldsymbol\sigma_v(xz)$ | $\rm\boldsymbol\sigma_v(yz)$ |  Linear , Rotations  |   Quadratic  | Cubic |
+|  :---:    |  :---:|     :---:   |  :---:    |    :---:       |        :---:     |        :---:       |             :---:      |
+| $\bf A_1$ |    1  |         1   |       1   |       1        |        $z$       |    $x^2,y^2,z^2$   |     $z^3,z(x^2-y^2)$   |
+| $\bf A_2$ |    1  |      1      |     -1    |       -1       |        $R_z$     |       $xy$         |      $xyz$             |
+|$\bf B_1$  | 1     |    -1       |    1      |     -1         |    $x,R_y$       |        $xz$        |$xz^2,x(x^2-3y^2)$      |
+|$\bf B_2$  | 1     |    -1       |   -1      |      1         |    $y,R_x$       |        $yz$        |$yz^2,y(3x^2-y^2)$      |
+
+|              | $\bf A_1$ |   $\bf A_2$   | $\bf B_1$    | $\bf B_2$      |
+|  :---:       |   :---:   |  :---:        | :---:        |   :---:        |
+| $\bf A_1$    | $\rm A_1$ |   $\rm A_2$   |$\rm B_1$     |$\rm B_2$       |
+| $\bf A_2$    | $\rm A_2$ |   $\rm A_1$   |$\rm B_2$     |$\rm B_1$       |
+|$\bf B_1$     | $\rm B_1$ |   $\rm B_2$   |$\rm A_1$     |$\rm A_2$       |
+|$\bf B_2$     | $\rm B_2$ |   $\rm B_1$   |$\rm A_2$     |$\rm A_1$       |
+</details>
