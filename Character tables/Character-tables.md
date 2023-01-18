@@ -57,10 +57,10 @@
 <details>
 <summary>$\ \bf C_3$</summary>
 
-|         | $\bf E$ |    $\bf C_3$    |   $\bf C_3^2$    |       Linear , Rotations              |         Quadratic       |     Cubic   |
-|  :---:  |  :---:  |       :---:     |  :---:           |                 :---:                 |        :---:            |  :---:      |
-| $\bf A$ |    1    |         1       |       1          |                $z,R_z$                |        $x^2+y^2,z^2$    |$z^3,x(x^2-3y^2),y(3y^2-x^2)$|
-|$\bf E$  | 1<br>1  | $e$ <br> $e^*$  | $e^*$ <br> $e$   | $x+iy,R_x+iR_y$ <br> $x-iy,R_x-iR_y$  | $(x^2-y^2,xy) (xz,yz)$   |$(xz^2,yz^2)  [xyz,z(x^2-y^2)]$
+|         | $\bf E$ |    $\bf C_3$    |   $\bf C_3^2$    |    Linear , Rotations   |         Quadratic       |     Cubic   |
+|  :---:  |  :---:  |       :---:     |  :---:           |           :---:         |        :---:            |  :---:      |
+| $\bf A$ |    1    |         1       |       1          |        $z,R_z$          |        $x^2+y^2,z^2$    |$z^3,x(x^2-3y^2),y(3y^2-x^2)$|
+|$\bf E$  | 1<br>1  | $e$ <br> $e^*$  | $e^*$ <br> $e$   | $(x,y)(R_x,R_y)$        | $(x^2-y^2,xy) (xz,yz)$   |$(xz^2,yz^2)[xyz,z(x^2-y^2)]$
 
 $e=exp(2\pi i/3)$
 
@@ -70,5 +70,19 @@ $e=exp(2\pi i/3)$
 | $\bf E$    | $\rm E$ | $\rm 2A\oplus E $    |
 </details>
 
+<details>
+<summary>$\ \bf C_4$</summary>
 
+|         | $\bf E$ |    $\bf C_4$    | $\bf C_2$ |   $\bf C_4^3$  | Linear , Rotations   |      Quadratic     |     Cubic   |
+|  :---:  |  :---:  |       :---:     |  :---:    |    :---:       |        :---:         |        :---:       |  :---:      |
+| $\bf A$ |    1    |         1       |       1   |       1        |        $z,R_z$       |    $x^2+y^2,z^2$   |     $z^3$   |
+| $\bf B$ |    1    |     -1          |     1     |       -1       |                      |     $x^2-y^2,xy$   | $xyz,z(x^2-y^2)$|
+|$\bf E$  | 1<br>1  | $i$ <br> $-i$   |-1 <br> -1 | $-i$ <br> $i$  |$(x,y)(R_x,R_y)$      |        $(xz,yz)$   |$(xz^2,yz^2)[x(x^2-3y^2),y(3y^2-x^2)]$
+
+|            | $\bf A$ | $\bf B$       | $\bf E$      |
+|  :---:     | :---:   |  :---:        | :---:        |
+| $\bf A$    | $\rm A$ |   $\rm B$     |$\rm E$       |
+|$\bf B$     | $\rm B$ |   $\rm A$     |$\rm E$       |
+| $\bf E$    | $\rm E$ |    $\rm E$    |$\rm 2A\oplus2B $    |
+</details>
 
