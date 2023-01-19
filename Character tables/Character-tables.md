@@ -436,6 +436,7 @@ x-axis align with $\rm C_2$
 | $\bf A_{1u}$    | $\rm A_{1u}$  |  $\rm A_{2u}$|  $\rm E_u$    |  $\rm A_{1g}$      |     $\rm A_{2g}$ |  $\rm E_g$ |
 |$\bf A_{2u}$     | $\rm A_{2u}$  |  $\rm A_{1u}$|  $\rm E_u$    |  $\rm A_{2g}$      |     $\rm A_{1g}$ |  $\rm E_g$ |
 | $\bf E_u$       | $\rm E_u$     |  $\rm E_u$   |  $\rm A_{1u}\oplus A_{2u}\oplus E_u$    |  $\rm E_g$   |     $\rm E_g$ |  $\rm A_{1g}\oplus A_{2g}\oplus E_g$|
+</details>
 
 ## $\rm D_{nh}\text{ Point Groups}$
 
@@ -457,7 +458,7 @@ x-axis align with $\rm C_2$
 | $\bf E$    | $\rm E$ |    $\rm E$    |$\rm 2A\oplus2B $    |
 </details>
 
-  <details>
+<details>
 <summary>$\ \bf S_6$</summary>
 
 |         | $\bf E$ |  $\bf C_6$  |$\bf C_3$  |   $\bf C_2$  | $\bf C_3^2$  | $\bf C_6^5$|Linear , Rotations|      Quadratic     |     Cubic   |
