@@ -75,78 +75,78 @@
 
 <td class="bordered ccc1 nowrap">$0.741$</td>
       
-<td class="ccc1 nowrap">1.595</td>
+<td class="ccc1 nowrap">$1.595$</td>
       
-<td class="ccc1 nowrap">1.343</td>
+<td class="ccc1 nowrap">$1.343$</td>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=13766262&charge=0>1.232</a></td>
+<td class="ccc1 nowrap">$1.232$</td>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=3315375&charge=0>1.120</a></td>
+<td class="ccc1 nowrap">$1.120$</td>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=13774920&charge=0>1.036</a></td>
+<td class="ccc1 nowrap">$1.036$</td>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=3352576&charge=0>0.970</a></td>
+<td class="ccc1 nowrap">$0.970$</td>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=7664393&charge=0>0.917</a></td>
+<td class="ccc1 nowrap">$0.917$</td>
       
 <td class="ccc1 nowrap">&nbsp;</td>
       
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=7646697&charge=0>1.887</a></td>
+<td class="ccc2 nowrap">$1.887$</td>
       
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=14332537&charge=0>1.730</a></td>
+<td class="ccc2 nowrap">$1.730$</td>
       
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13967221&charge=0>1.648</a></td>
+<td class="ccc2 nowrap">$1.648$</td>
       
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13774942&charge=0>1.520</a></td>
+<td class="ccc2 nowrap">$1.520$</td>
       
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13967141&charge=0>1.422</a></td>
+<td class="ccc2 nowrap">$1.422$</td>
+     
+<td class="ccc2 nowrap">$1.341$</td>
       
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13940211&charge=0>1.341</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=7647010&charge=0>1.275</a></td>
+<td class="ccc2 nowrap">$1.275$</td>
       
 <td class="ccc2 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=7693267&charge=0>2.243</a></td>
+<td class="ccc3 nowrap">$2.243$</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=14452756&charge=0>2.003</a></td>
+<td class="ccc3 nowrap">$2.003$</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=33486021&charge=0>1.775</a></td>
+<td class="ccc3 nowrap">$1.775$</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13776993&charge=0>1.785</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13966795&charge=0>1.655</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13517005&charge=0>1.463</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13981878&charge=0>1.595</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13572924&charge=0>1.663</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13572991&charge=0>1.588</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12628089&charge=0>1.535</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13940222&charge=0>1.475</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=10035106&charge=0>1.414</a></td>
+<td class="ccc3 nowrap">$1.785$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13940368&charge=0>1.656</a></td>
+<td class="ccc3 nowrap">$1.655$</td>
+     
+<td class="ccc3 nowrap">$1.463$</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=10034852&charge=0>1.609</a></td>
+<td class="ccc3 nowrap">$1.595$</td>
+     
+<td class="ccc3 nowrap">$1.663$</td>
+     
+<td class="ccc3 nowrap">$1.588$</td>
+    
+<td class="ccc3 nowrap">$1.535$</td>
+   
+<td class="ccc3 nowrap">$1.475$</td>
+   
+<td class="ccc3 nowrap">$1.414$</td>
+     
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.656$</td>
+      
+<td class="ccc3 nowrap">$1.609$</td>
 
 </tr>
 
 <tr>
-<th>Li</th>
+<th>$\rm Li$</th>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=7580678&charge=0>1.595</a></td>
+<td class="ccc1 nowrap">$1.595$</td>
 
-<td class="bordered ccc1 nowrap"><a href=exp2x.asp?casno=14452596&charge=0>2.673</a></td>
+<td class="bordered ccc1 nowrap">$2.673$</td>
       
 <td class="ccc1 nowrap">&nbsp;</td>
       
@@ -156,82 +156,13 @@
       
 <td class="ccc1 nowrap">&nbsp;</td>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=12142777&charge=0>1.688</a></td>
+<td class="ccc1 nowrap">$1.688$</td>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=7789244&charge=0>1.564</a></td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12333492&charge=0>2.889</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12401740&charge=0>2.150</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=7447418&charge=0>2.021</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12030830&charge=0>3.270</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=7550358&charge=0>2.170</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=10377512&charge=0>2.392</a></td>
-
-</tr>
-
-<tr>
-<th>Be</th>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=13597972&charge=0>1.343</a></td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-
-<td class="bordered ccc1 nowrap"><a href=exp2x.asp?casno=14452609&charge=0>2.460</a></td>
+<td class="ccc1 nowrap">$1.564$</td>
       
 <td class="ccc1 nowrap">&nbsp;</td>
       
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=1304569&charge=0>1.331</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=13597961&charge=0>1.361</a></td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
+<td class="ccc2 nowrap">$2.889$</td>
       
 <td class="ccc2 nowrap">&nbsp;</td>
       
@@ -241,15 +172,13 @@
       
 <td class="ccc2 nowrap">&nbsp;</td>
       
-<td class="ccc2 nowrap">&nbsp;</td>
+<td class="ccc2 nowrap">$2.150$</td>
       
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13598226&charge=0>1.742</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13814501&charge=0>1.797</a></td>
+<td class="ccc2 nowrap">$2.021$</td>
       
 <td class="ccc2 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap">&nbsp;</td>
+<td class="ccc3 nowrap">$3.270$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -273,34 +202,34 @@
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap">&nbsp;</td>
+<td class="ccc3 nowrap">$2.170$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap">&nbsp;</td>
+<td class="ccc3 nowrap">$2.392$</td>
 
 </tr>
 
 <tr>
-<th>B</th>
+<th>$\rm Be$</th>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=13766262&charge=0>1.232</a></td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
+<td class="ccc1 nowrap">$1.343$</td>
       
 <td class="ccc1 nowrap">&nbsp;</td>
 
-<td class="bordered ccc1 nowrap"><a href=exp2x.asp?casno=14452610&charge=0>1.590</a></td>
+<td class="bordered ccc1 nowrap">$2.460$</td>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=12011540&charge=0>1.491</a></td>
+<td class="ccc1 nowrap">&nbsp;</td>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=10043115&charge=0>1.325</a></td>
+<td class="ccc1 nowrap">&nbsp;</td>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=12505770&charge=0>1.205</a></td>
+<td class="ccc1 nowrap">&nbsp;</td>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=13768600&charge=0>1.267</a></td>
+<td class="ccc1 nowrap">$1.331$</td>
+      
+<td class="ccc1 nowrap">$1.361$</td>
       
 <td class="ccc1 nowrap">&nbsp;</td>
       
@@ -314,364 +243,9 @@
       
 <td class="ccc2 nowrap">&nbsp;</td>
       
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12228396&charge=0>1.609</a></td>
+<td class="ccc2 nowrap">$1.742$</td>
       
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=20583555&charge=0>1.719</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=19961296&charge=0>1.888</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-
-</tr>
-
-<tr>
-<th>C</th>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=3315375&charge=0>1.120</a></td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=12011540&charge=0>1.491</a></td>
-
-<td class="bordered ccc1 nowrap"><a href=exp2x.asp?casno=12070154&charge=0>1.243</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=2074875&charge=0>1.172</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=630080&charge=0>1.128</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=3889756&charge=0>1.276</a></td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=37265944&charge=0>1.955</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=409212&charge=0>1.722</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12326851&charge=0>1.562</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=2944050&charge=0>1.535</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=3889767&charge=0>1.649</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=65380769&charge=0>2.302</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=16674183&charge=0>1.676</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=3889778&charge=0>1.821</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-
-</tr>
-
-<tr>
-<th>N</th>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=13774920&charge=0>1.036</a></td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=10043115&charge=0>1.325</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=2074875&charge=0>1.172</a></td>
-
-<td class="bordered ccc1 nowrap"><a href=exp2x.asp?casno=7727379&charge=0>1.098</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=10102439&charge=0>1.154</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=13967061&charge=0>1.317</a></td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=24304005&charge=0>1.786</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12033602&charge=0>1.575</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=17739478&charge=0>1.491</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12033566&charge=0>1.497</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12190759&charge=0>1.611</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=26754983&charge=0>1.618</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12033599&charge=0>1.652</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13967298&charge=0>1.765</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12333572&charge=0>1.835</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-
-</tr>
-
-<tr>
-<th>O</th>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=3352576&charge=0>0.970</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=12142777&charge=0>1.688</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=1304569&charge=0>1.331</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=12505770&charge=0>1.205</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=630080&charge=0>1.128</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=10102439&charge=0>1.154</a></td>
-
-<td class="bordered ccc1 nowrap"><a href=exp2x.asp?casno=7782447&charge=0>1.208</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=12061700&charge=0>1.354</a></td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12401864&charge=0>2.052</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=1309484&charge=0>1.749</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=14457648&charge=0>1.618</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=10097286&charge=0>1.510</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=14452665&charge=0>1.476</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13827322&charge=0>1.481</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=14989301&charge=0>1.596</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=1305788&charge=0>1.822</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12059915&charge=0>1.668</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12137201&charge=0>1.620</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12035982&charge=0>1.589</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=1317380&charge=0>1.724</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12024087&charge=0>1.743</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=20619163&charge=0>1.625</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12640890&charge=0>1.639</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=15656196&charge=0>1.718</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13451177&charge=0>1.825</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=14696981&charge=0>1.868</a></td>
-
-</tr>
-
-<tr>
-<th>F</th>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=7664393&charge=0>0.917</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=7789244&charge=0>1.564</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=13597961&charge=0>1.361</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=13768600&charge=0>1.267</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=3889756&charge=0>1.276</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=13967061&charge=0>1.317</a></td>
-      
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=12061700&charge=0>1.354</a></td>
-
-<td class="bordered ccc1 nowrap"><a href=exp2x.asp?casno=7782414&charge=0>1.412</a></td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=7681494&charge=0>1.926</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=14953287&charge=0>1.750</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13595829&charge=0>1.654</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=11128248&charge=0>1.604</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=16027922&charge=0>1.593</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=16068965&charge=0>1.599</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=7790898&charge=0>1.628</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=7789233&charge=0>2.171</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13827264&charge=0>1.967</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=14017335&charge=0>1.788</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13478416&charge=0>1.745</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13966784&charge=0>1.774</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=14929465&charge=0>1.745</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=15120135&charge=0>1.736</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13863597&charge=0>1.759</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=25285727&charge=0>1.918</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13873842&charge=0>1.910</a></td>
-
-</tr>
-
-<tr>
-<th>Ne</th>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-      
-<td class="ccc1 nowrap">&nbsp;</td>
-
-<td class="bordered ccc1 nowrap"><a href=exp2x.asp?casno=12185056&charge=0>3.100</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
+<td class="ccc2 nowrap">$1.797$</td>
       
 <td class="ccc2 nowrap">&nbsp;</td>
       
@@ -710,80 +284,25 @@
 </tr>
 
 <tr>
-<th>Na</th>
+<th>$\rm B$</th>
       
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=7646697&charge=0>1.887</a></td>
+<td class="ccc1 nowrap">$1.232$</td>
       
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12333492&charge=0>2.889</a></td>
+<td class="ccc1 nowrap">&nbsp;</td>
       
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12401864&charge=0>2.052</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=7681494&charge=0>1.926</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
+<td class="ccc1 nowrap">&nbsp;</td>
 
-<td class="bordered ccc4 nowrap"><a href=exp2x.asp?casno=25681792&charge=0>3.079</a></td>
+<td class="bordered ccc1 nowrap">$1.590$</td>
       
-<td class="ccc4 nowrap">&nbsp;</td>
+<td class="ccc1 nowrap">$1.491$</td>
       
-<td class="ccc4 nowrap">&nbsp;</td>
+<td class="ccc1 nowrap">$1.325$</td>
       
-<td class="ccc4 nowrap">&nbsp;</td>
+<td class="ccc1 nowrap">$1.205$</td>
       
-<td class="ccc4 nowrap">&nbsp;</td>
+<td class="ccc1 nowrap">$1.267$</td>
       
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=115694774&charge=0>2.489</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=7647145&charge=0>2.361</a></td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=12056290&charge=0>3.589</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=7647156&charge=0>2.502</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=7681825&charge=0>2.711</a></td>
-
-</tr>
-
-<tr>
-<th>Mg</th>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=14332537&charge=0>1.730</a></td>
+<td class="ccc1 nowrap">&nbsp;</td>
       
 <td class="ccc2 nowrap">&nbsp;</td>
       
@@ -795,494 +314,11 @@
       
 <td class="ccc2 nowrap">&nbsp;</td>
       
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=1309484&charge=0>1.749</a></td>
+<td class="ccc2 nowrap">$1.609$</td>
       
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=14953287&charge=0>1.750</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-
-<td class="bordered ccc4 nowrap"><a href=exp2x.asp?casno=29904798&charge=0>3.891</a></td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=12032369&charge=0>2.143</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=14989298&charge=0>2.199</a></td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-
-</tr>
-
-<tr>
-<th>Al</th>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13967221&charge=0>1.648</a></td>
+<td class="ccc2 nowrap">$1.719$</td>
       
 <td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=37265944&charge=0>1.955</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=24304005&charge=0>1.786</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=14457648&charge=0>1.618</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13595829&charge=0>1.654</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-
-<td class="bordered ccc4 nowrap"><a href=exp2x.asp?casno=32752946&charge=0>2.701</a></td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=20859738&charge=0>2.400</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=12251900&charge=0>2.029</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=13595818&charge=0>2.130</a></td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=22359973&charge=0>2.295</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=29977411&charge=0>2.537</a></td>
-
-</tr>
-
-<tr>
-<th>Si</th>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13774942&charge=0>1.520</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=409212&charge=0>1.722</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12033602&charge=0>1.575</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=10097286&charge=0>1.510</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=11128248&charge=0>1.604</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-
-<td class="bordered ccc4 nowrap"><a href=exp2x.asp?casno=12597352&charge=0>2.246</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=12137643&charge=0>2.078</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=12504415&charge=0>1.929</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=13966579&charge=0>2.061</a></td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=12211006&charge=0>2.058</a></td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=14791572&charge=0>2.209</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-
-</tr>
-
-<tr>
-<th>P</th>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13967141&charge=0>1.422</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12326851&charge=0>1.562</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=17739478&charge=0>1.491</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=14452665&charge=0>1.476</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=16027922&charge=0>1.593</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=20859738&charge=0>2.400</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=12137643&charge=0>2.078</a></td>
-
-<td class="bordered ccc4 nowrap"><a href=exp2x.asp?casno=12185090&charge=0>1.893</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=12281366&charge=0>1.900</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=17167554&charge=0>2.018</a></td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=12063988&charge=0>2.450</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=59727161&charge=0>2.171</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-
-</tr>
-
-<tr>
-<th>S</th>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13940211&charge=0>1.341</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12401740&charge=0>2.150</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13598226&charge=0>1.742</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12228396&charge=0>1.609</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=2944050&charge=0>1.535</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12033566&charge=0>1.497</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13827322&charge=0>1.481</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=16068965&charge=0>1.599</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=115694774&charge=0>2.489</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=12032369&charge=0>2.143</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=12251900&charge=0>2.029</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=12504415&charge=0>1.929</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=12281366&charge=0>1.900</a></td>
-
-<td class="bordered ccc4 nowrap"><a href=exp2x.asp?casno=23550450&charge=0>1.889</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=14989323&charge=0>1.975</a></td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=20548543&charge=0>2.318</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=1314983&charge=0>2.046</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=12025320&charge=0>2.012</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=7446346&charge=0>2.037</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-
-</tr>
-
-<tr>
-<th>Cl</th>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=7647010&charge=0>1.275</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=7447418&charge=0>2.021</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=13814501&charge=0>1.797</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=20583555&charge=0>1.719</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=3889767&charge=0>1.649</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=12190759&charge=0>1.611</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=14989301&charge=0>1.596</a></td>
-      
-<td class="ccc2 nowrap"><a href=exp2x.asp?casno=7790898&charge=0>1.628</a></td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=7647145&charge=0>2.361</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=14989298&charge=0>2.199</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=13595818&charge=0>2.130</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=13966579&charge=0>2.061</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=17167554&charge=0>2.018</a></td>
-      
-<td class="ccc4 nowrap"><a href=exp2x.asp?casno=14989323&charge=0>1.975</a></td>
-
-<td class="bordered ccc4 nowrap"><a href=exp2x.asp?casno=7782505&charge=0>1.988</a></td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=7447407&charge=0>2.667</a></td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=15606710&charge=0>2.437</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=20190061&charge=0>2.265</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=7758896&charge=0>2.051</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=17108859&charge=0>2.202</a></td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=9000388&charge=0>2.164</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=13863417&charge=0>2.136</a></td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=19952126&charge=0>2.335</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=7790990&charge=0>2.321</a></td>
-
-</tr>
-
-<tr>
-<th>Ar</th>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc2 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-      
-<td class="ccc4 nowrap">&nbsp;</td>
-
-<td class="bordered ccc4 nowrap"><a href=exp2x.asp?casno=12595594&charge=0>3.758</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-
-</tr>
-
-<tr>
-<th>K</th>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=7693267&charge=0>2.243</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12030830&charge=0>3.270</a></td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1294,11 +330,423 @@
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=7789233&charge=0>2.171</a></td>
+<td class="ccc3 nowrap">&nbsp;</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=12056290&charge=0>3.589</a></td>
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.888$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+
+</tr>
+
+<tr>
+<th>$\rm C$</th>
+      
+<td class="ccc1 nowrap">$1.120$</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc1 nowrap">$1.491$</td>
+
+<td class="bordered ccc1 nowrap">$1.243$</td>
+      
+<td class="ccc1 nowrap">$1.172$</td>
+      
+<td class="ccc1 nowrap">$1.128$</td>
+      
+<td class="ccc1 nowrap">$1.276$</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">$1.955$</td>
+      
+<td class="ccc2 nowrap">$1.722$</td>
+      
+<td class="ccc2 nowrap">$1.562$</td>
+      
+<td class="ccc2 nowrap">$1.535$</td>
+      
+<td class="ccc2 nowrap">$1.649$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$2.302$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.676$</td>
+      
+<td class="ccc3 nowrap">$1.821$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+
+</tr>
+
+<tr>
+<th>$\rm N$</th>
+      
+<td class="ccc1 nowrap">$1.036$</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc1 nowrap">$1.325$</td>
+      
+<td class="ccc1 nowrap">$1.172$</td>
+
+<td class="bordered ccc1 nowrap">$1.098$</td>
+      
+<td class="ccc1 nowrap">$1.154$</td>
+      
+<td class="ccc1 nowrap">$1.317$</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">$1.786$</td>
+      
+<td class="ccc2 nowrap">$1.575$</td>
+      
+<td class="ccc2 nowrap">$1.491$</td>
+      
+<td class="ccc2 nowrap">$1.497$</td>
+      
+<td class="ccc2 nowrap">$1.611$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.618$</td>
+      
+<td class="ccc3 nowrap">$1.652$</td>
+      
+<td class="ccc3 nowrap">$1.765$</td>
+      
+<td class="ccc3 nowrap">$1.835$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+
+</tr>
+
+<tr>
+<th>$\rm O$</th>
+      
+<td class="ccc1 nowrap">$0.970$</td>
+      
+<td class="ccc1 nowrap">$1.688$</td>
+      
+<td class="ccc1 nowrap">$1.331$</td>
+      
+<td class="ccc1 nowrap">$1.205$</td>
+      
+<td class="ccc1 nowrap">$1.128$</td>
+      
+<td class="ccc1 nowrap">$1.154$</td>
+
+<td class="bordered ccc1 nowrap">$1.208$</td>
+      
+<td class="ccc1 nowrap">$1.354$</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">$2.052$</td>
+      
+<td class="ccc2 nowrap">$1.749$</td>
+      
+<td class="ccc2 nowrap">$1.618$</td>
+      
+<td class="ccc2 nowrap">$1.510$</td>
+      
+<td class="ccc2 nowrap">$1.476$</td>
+      
+<td class="ccc2 nowrap">$1.481$</td>
+      
+<td class="ccc2 nowrap">$1.596$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.822$</td>
+      
+<td class="ccc3 nowrap">$1.668$</td>
+      
+<td class="ccc3 nowrap">$1.620$</td>
+      
+<td class="ccc3 nowrap">$1.589$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.724$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.743$</td>
+      
+<td class="ccc3 nowrap">$1.625$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.639$</td>
+      
+<td class="ccc3 nowrap">$1.718$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.825$</td>
+      
+<td class="ccc3 nowrap">$1.868$</td>
+
+</tr>
+
+<tr>
+<th>$\rm F$</th>
+      
+<td class="ccc1 nowrap">$0.917$</td>
+      
+<td class="ccc1 nowrap">$1.564$</td>
+      
+<td class="ccc1 nowrap">$1.361$</td>
+      
+<td class="ccc1 nowrap">$1.267$</td>
+      
+<td class="ccc1 nowrap">$1.276$</td>
+      
+<td class="ccc1 nowrap">$1.317$</td>
+      
+<td class="ccc1 nowrap">$1.354$</td>
+
+<td class="bordered ccc1 nowrap">$1.412$</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">$1.926$</td>
+      
+<td class="ccc2 nowrap">$1.750$</td>
+      
+<td class="ccc2 nowrap">$1.654$</td>
+      
+<td class="ccc2 nowrap">$1.604$</td>
+      
+<td class="ccc2 nowrap">$1.593$</td>
+      
+<td class="ccc2 nowrap">$1.599$</td>
+      
+<td class="ccc2 nowrap">$1.628$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$2.171$</td>
+      
+<td class="ccc3 nowrap">$1.967$</td>
+      
+<td class="ccc3 nowrap">$1.788$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.745$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.774$</td>
+      
+<td class="ccc3 nowrap">$1.745$</td>
+      
+<td class="ccc3 nowrap">$1.736$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.759$</td>
+      
+<td class="ccc3 nowrap">$1.918$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.910$</td>
+
+</tr>
+
+<tr>
+<th>$\rm Ne$</th>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+      
+<td class="ccc1 nowrap">&nbsp;</td>
+
+<td class="bordered ccc1 nowrap">$3.100$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+
+</tr>
+
+<tr>
+<th>$\rm Na$</th>
+      
+<td class="ccc2 nowrap">$1.887$</td>
+      
+<td class="ccc2 nowrap">$2.889$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">$2.052$</td>
+      
+<td class="ccc2 nowrap">$1.926$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+
+<td class="bordered ccc4 nowrap">$3.079$</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">$2.489$</td>
+      
+<td class="ccc4 nowrap">$2.361$</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$3.589$</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
@@ -1310,11 +758,563 @@
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=7447407&charge=0>2.667</a></td>
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.502$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.711$</td>
+
+</tr>
+
+<tr>
+<th>$\rm Mg$</th>
+      
+<td class="ccc2 nowrap">$1.730$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">$1.749$</td>
+      
+<td class="ccc2 nowrap">$1.750$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+
+<td class="bordered ccc4 nowrap">$3.891$</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">$2.143$</td>
+      
+<td class="ccc4 nowrap">$2.199$</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
 
-<td class="bordered ccc6 nowrap"><a href=exp2x.asp?casno=25681805&charge=0>3.905</a></td>
+</tr>
+
+<tr>
+<th>$\rm Al$</th>
+      
+<td class="ccc2 nowrap">$1.648$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">$1.955$</td>
+      
+<td class="ccc2 nowrap">$1.786$</td>
+      
+<td class="ccc2 nowrap">$1.618$</td>
+      
+<td class="ccc2 nowrap">$1.654$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+
+<td class="bordered ccc4 nowrap">$2.701$</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">$2.400$</td>
+      
+<td class="ccc4 nowrap">$2.029$</td>
+      
+<td class="ccc4 nowrap">$2.130$</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.295$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.537$</td>
+
+</tr>
+
+<tr>
+<th>$\rm Si$</th>
+      
+<td class="ccc2 nowrap">$1.520$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">$1.722$</td>
+      
+<td class="ccc2 nowrap">$1.575$</td>
+      
+<td class="ccc2 nowrap">$1.510$</td>
+      
+<td class="ccc2 nowrap">$1.604$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+
+<td class="bordered ccc4 nowrap">$2.246$</td>
+      
+<td class="ccc4 nowrap">$2.078$</td>
+      
+<td class="ccc4 nowrap">$1.929$</td>
+      
+<td class="ccc4 nowrap">$2.061$</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.058$</td>
+      
+<td class="ccc5 nowrap">$2.209$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+
+</tr>
+
+<tr>
+<th>$\rm P$</th>
+      
+<td class="ccc2 nowrap">$1.422$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">$1.562$</td>
+      
+<td class="ccc2 nowrap">$1.491$</td>
+      
+<td class="ccc2 nowrap">$1.476$</td>
+      
+<td class="ccc2 nowrap">$1.593$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">$2.400$</td>
+      
+<td class="ccc4 nowrap">$2.078$</td>
+
+<td class="bordered ccc4 nowrap">$1.893$</td>
+      
+<td class="ccc4 nowrap">$1.900$</td>
+      
+<td class="ccc4 nowrap">$2.018$</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.450$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.171$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+
+</tr>
+
+<tr>
+<th>$\rm S$</th>
+      
+<td class="ccc2 nowrap">$1.341$</td>
+      
+<td class="ccc2 nowrap">$2.150$</td>
+      
+<td class="ccc2 nowrap">$1.742$</td>
+      
+<td class="ccc2 nowrap">$1.609$</td>
+      
+<td class="ccc2 nowrap">$1.535$</td>
+      
+<td class="ccc2 nowrap">$1.497$</td>
+      
+<td class="ccc2 nowrap">$1.481$</td>
+      
+<td class="ccc2 nowrap">$1.599$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">$2.489$</td>
+      
+<td class="ccc4 nowrap">$2.143$</td>
+      
+<td class="ccc4 nowrap">$2.029$</td>
+      
+<td class="ccc4 nowrap">$1.929$</td>
+      
+<td class="ccc4 nowrap">$1.900$</td>
+
+<td class="bordered ccc4 nowrap">$1.889$</td>
+      
+<td class="ccc4 nowrap">$1.975$</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.318$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.046$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.012$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.037$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+
+</tr>
+
+<tr>
+<th>$\rm Cl$</th>
+      
+<td class="ccc2 nowrap">$1.275$</td>
+      
+<td class="ccc2 nowrap">$2.021$</td>
+      
+<td class="ccc2 nowrap">$1.797$</td>
+      
+<td class="ccc2 nowrap">$1.719$</td>
+      
+<td class="ccc2 nowrap">$1.649$</td>
+      
+<td class="ccc2 nowrap">$1.611$</td>
+      
+<td class="ccc2 nowrap">$1.596$</td>
+      
+<td class="ccc2 nowrap">$1.628$</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">$2.361$</td>
+      
+<td class="ccc4 nowrap">$2.199$</td>
+      
+<td class="ccc4 nowrap">$2.130$</td>
+      
+<td class="ccc4 nowrap">$2.061$</td>
+      
+<td class="ccc4 nowrap">$2.018$</td>
+      
+<td class="ccc4 nowrap">$1.975$</td>
+
+<td class="bordered ccc4 nowrap">$1.988$</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.667$</td>
+      
+<td class="ccc5 nowrap">$2.437$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.265$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.051$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.202$</td>
+      
+<td class="ccc5 nowrap">$2.164$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.136$</td>
+      
+<td class="ccc5 nowrap">$2.335$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.321$</td>
+
+</tr>
+
+<tr>
+<th>$\rm Ar$</th>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc2 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+      
+<td class="ccc4 nowrap">&nbsp;</td>
+
+<td class="bordered ccc4 nowrap">$3.758$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+
+</tr>
+
+<tr>
+<th>$\rm K$</th>
+      
+<td class="ccc3 nowrap">$2.243$</td>
+      
+<td class="ccc3 nowrap">$3.270$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$2.171$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$3.589$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.667$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+
+<td class="bordered ccc6 nowrap">$3.905$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
@@ -1338,34 +1338,34 @@
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=7758023&charge=0>2.821</a></td>
+<td class="ccc6 nowrap">$2.821$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=7681110&charge=0>3.048</a></td>
+<td class="ccc6 nowrap">$3.048$</td>
 
 </tr>
 
 <tr>
-<th>Ca</th>
+<th>$\rm Ca$</th>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=14452756&charge=0>2.003</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
+<td class="ccc3 nowrap">$2.003$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=65380769&charge=0>2.302</a></td>
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$2.302$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=1305788&charge=0>1.822</a></td>
+<td class="ccc3 nowrap">$1.822$</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13827264&charge=0>1.967</a></td>
+<td class="ccc3 nowrap">$1.967$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1379,9 +1379,9 @@
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=20548543&charge=0>2.318</a></td>
+<td class="ccc5 nowrap">$2.318$</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=15606710&charge=0>2.437</a></td>
+<td class="ccc5 nowrap">$2.437$</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
@@ -1409,7 +1409,7 @@
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=10024438&charge=0>2.594</a></td>
+<td class="ccc6 nowrap">$2.594$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
@@ -1420,80 +1420,9 @@
 </tr>
 
 <tr>
-<th>Sc</th>
+<th>$\rm Sc$</th>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=33486021&charge=0>1.775</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12059915&charge=0>1.668</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=14017335&charge=0>1.788</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-
-<td class="bordered ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-
-</tr>
-
-<tr>
-<th>Ti</th>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13776993&charge=0>1.785</a></td>
+<td class="ccc3 nowrap">$1.775$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1505,9 +1434,9 @@
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12137201&charge=0>1.620</a></td>
+<td class="ccc3 nowrap">$1.668$</td>
       
-<td class="ccc3 nowrap">&nbsp;</td>
+<td class="ccc3 nowrap">$1.788$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1523,11 +1452,9 @@
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=20190061&charge=0>2.265</a></td>
-      
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc6 nowrap">&nbsp;</td>
+<td class="ccc5 nowrap">&nbsp;</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
@@ -1558,11 +1485,84 @@
 <td class="ccc6 nowrap">&nbsp;</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
 
 </tr>
 
 <tr>
-<th>V</th>
+<th>$\rm Ti$</th>
+      
+<td class="ccc3 nowrap">$1.785$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.620$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.265$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+
+<td class="bordered ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+
+</tr>
+
+<tr>
+<th>$\rm V$</th>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1576,7 +1576,7 @@
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12035982&charge=0>1.589</a></td>
+<td class="ccc3 nowrap">$1.589$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1633,9 +1633,9 @@
 </tr>
 
 <tr>
-<th>Cr</th>
+<th>$\rm Cr$</th>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13966795&charge=0>1.655</a></td>
+<td class="ccc3 nowrap">$1.655$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1704,11 +1704,9 @@
 </tr>
 
 <tr>
-<th>Cu</th>
+<th>$\rm Cu$</th>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13517005&charge=0>1.463</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
+<td class="ccc3 nowrap">$1.463$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1718,9 +1716,11 @@
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=1317380&charge=0>1.724</a></td>
+<td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13478416&charge=0>1.745</a></td>
+<td class="ccc3 nowrap">$1.724$</td>
+      
+<td class="ccc3 nowrap">$1.745$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1736,7 +1736,7 @@
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=7758896&charge=0>2.051</a></td>
+<td class="ccc5 nowrap">$2.051$</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
@@ -1752,7 +1752,7 @@
       
 <td class="ccc6 nowrap">&nbsp;</td>
 
-<td class="bordered ccc6 nowrap"><a href=exp2x.asp?casno=12190704&charge=0>2.220</a></td>
+<td class="bordered ccc6 nowrap">$2.220$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
@@ -1775,9 +1775,9 @@
 </tr>
 
 <tr>
-<th>Zn</th>
+<th>$\rm Zn$</th>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13981878&charge=0>1.595</a></td>
+<td class="ccc3 nowrap">$1.595$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1805,7 +1805,7 @@
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=1314983&charge=0>2.046</a></td>
+<td class="ccc5 nowrap">$2.046$</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
@@ -1846,11 +1846,9 @@
 </tr>
 
 <tr>
-<th>Ga</th>
+<th>$\rm Ga$</th>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13572924&charge=0>1.663</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
+<td class="ccc3 nowrap">$1.663$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1860,9 +1858,11 @@
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12024087&charge=0>1.743</a></td>
+<td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13966784&charge=0>1.774</a></td>
+<td class="ccc3 nowrap">$1.743$</td>
+      
+<td class="ccc3 nowrap">$1.774$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1874,11 +1874,11 @@
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=12063988&charge=0>2.450</a></td>
+<td class="ccc5 nowrap">$2.450$</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=17108859&charge=0>2.202</a></td>
+<td class="ccc5 nowrap">$2.202$</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
@@ -1902,11 +1902,11 @@
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=1303000&charge=0>2.530</a></td>
+<td class="ccc6 nowrap">$2.530$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=22655590&charge=0>2.352</a></td>
+<td class="ccc6 nowrap">$2.352$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
@@ -1917,11 +1917,9 @@
 </tr>
 
 <tr>
-<th>Ge</th>
+<th>$\rm Ge$</th>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13572991&charge=0>1.588</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
+<td class="ccc3 nowrap">$1.588$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1931,9 +1929,11 @@
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=20619163&charge=0>1.625</a></td>
+<td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=14929465&charge=0>1.745</a></td>
+<td class="ccc3 nowrap">$1.625$</td>
+      
+<td class="ccc3 nowrap">$1.745$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -1947,9 +1947,9 @@
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=12025320&charge=0>2.012</a></td>
+<td class="ccc5 nowrap">$2.012$</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=9000388&charge=0>2.164</a></td>
+<td class="ccc5 nowrap">$2.164$</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
@@ -1975,7 +1975,7 @@
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=12065100&charge=0>2.135</a></td>
+<td class="ccc6 nowrap">$2.135$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
@@ -1988,11 +1988,9 @@
 </tr>
 
 <tr>
-<th>As</th>
+<th>$\rm As$</th>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12628089&charge=0>1.535</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
+<td class="ccc3 nowrap">$1.535$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -2000,11 +1998,13 @@
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=26754983&charge=0>1.618</a></td>
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.618$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=15120135&charge=0>1.736</a></td>
+<td class="ccc3 nowrap">$1.736$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -2040,84 +2040,13 @@
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=1303000&charge=0>2.530</a></td>
+<td class="ccc6 nowrap">$2.530$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
 
-<td class="bordered ccc6 nowrap"><a href=exp2x.asp?casno=23878468&charge=0>2.103</a></td>
+<td class="bordered ccc6 nowrap">$2.103$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-
-</tr>
-
-<tr>
-<th>Se</th>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13940222&charge=0>1.475</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=16674183&charge=0>1.676</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12033599&charge=0>1.652</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12640890&charge=0>1.639</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=12211006&charge=0>2.058</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=7446346&charge=0>2.037</a></td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc5 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=12065100&charge=0>2.135</a></td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-
-<td class="bordered ccc6 nowrap"><a href=exp2x.asp?casno=12185170&charge=0>2.166</a></td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
@@ -2130,45 +2059,49 @@
 </tr>
 
 <tr>
-<th>Br</th>
+<th>$\rm Se$</th>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=10035106&charge=0>1.414</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=7550358&charge=0>2.170</a></td>
+<td class="ccc3 nowrap">$1.475$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=19961296&charge=0>1.888</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=3889778&charge=0>1.821</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13967298&charge=0>1.765</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=15656196&charge=0>1.718</a></td>
-      
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13863597&charge=0>1.759</a></td>
+<td class="ccc3 nowrap">&nbsp;</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=7647156&charge=0>2.502</a></td>
+<td class="ccc3 nowrap">$1.676$</td>
+      
+<td class="ccc3 nowrap">$1.652$</td>
+      
+<td class="ccc3 nowrap">$1.639$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=22359973&charge=0>2.295</a></td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=14791572&charge=0>2.209</a></td>
-      
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=59727161&charge=0>2.171</a></td>
+<td class="ccc5 nowrap">&nbsp;</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=13863417&charge=0>2.136</a></td>
+<td class="ccc5 nowrap">$2.058$</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=7758023&charge=0>2.821</a></td>
+<td class="ccc5 nowrap">$2.037$</td>
       
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=10024438&charge=0>2.594</a></td>
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
@@ -2180,28 +2113,95 @@
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=22655590&charge=0>2.352</a></td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
-      
-<td class="ccc6 nowrap">&nbsp;</td>
+<td class="ccc6 nowrap">$2.135$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
 
-<td class="bordered ccc6 nowrap"><a href=exp2x.asp?casno=7726956&charge=0>2.281</a></td>
+<td class="bordered ccc6 nowrap">$2.166$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=7789335&charge=0>2.469</a></td>
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
 
 </tr>
 
 <tr>
-<th>Sb</th>
+<th>$\rm Br$</th>
+      
+<td class="ccc3 nowrap">$1.414$</td>
+      
+<td class="ccc3 nowrap">$2.170$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.888$</td>
+      
+<td class="ccc3 nowrap">$1.821$</td>
+      
+<td class="ccc3 nowrap">$1.765$</td>
+      
+<td class="ccc3 nowrap">$1.718$</td>
+      
+<td class="ccc3 nowrap">$1.759$</td>
+      
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.502$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.295$</td>
+      
+<td class="ccc5 nowrap">$2.209$</td>
+      
+<td class="ccc5 nowrap">$2.171$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc5 nowrap">$2.136$</td>
+      
+<td class="ccc5 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">$2.821$</td>
+      
+<td class="ccc6 nowrap">$2.594$</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">$2.352$</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+
+<td class="bordered ccc6 nowrap">$2.281$</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">&nbsp;</td>
+      
+<td class="ccc6 nowrap">$2.469$</td>
+
+</tr>
+
+<tr>
+<th>$\rm Sb$</th>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -2213,11 +2213,11 @@
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=12333572&charge=0>1.835</a></td>
+<td class="ccc3 nowrap">$1.835$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=25285727&charge=0>1.918</a></td>
+<td class="ccc3 nowrap">$1.918$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -2233,7 +2233,7 @@
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=19952126&charge=0>2.335</a></td>
+<td class="ccc5 nowrap">$2.335$</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
@@ -2272,11 +2272,9 @@
 </tr>
 
 <tr>
-<th>Te</th>
+<th>$\rm Te$</th>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13940368&charge=0>1.656</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
+<td class="ccc3 nowrap">$1.656$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -2286,7 +2284,9 @@
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13451177&charge=0>1.825</a></td>
+<td class="ccc3 nowrap">&nbsp;</td>
+      
+<td class="ccc3 nowrap">$1.825$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -2336,20 +2336,18 @@
       
 <td class="ccc6 nowrap">&nbsp;</td>
 
-<td class="bordered ccc6 nowrap"><a href=exp2x.asp?casno=10028167&charge=0>2.557</a></td>
+<td class="bordered ccc6 nowrap">$2.557$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
 
 </tr>
 
 <tr>
-<th>I</th>
+<th>$\rm I$</th>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=10034852&charge=0>1.609</a></td>
+<td class="ccc3 nowrap">$1.609$</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=10377512&charge=0>2.392</a></td>
-      
-<td class="ccc3 nowrap">&nbsp;</td>
+<td class="ccc3 nowrap">$2.392$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
@@ -2357,17 +2355,19 @@
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=14696981&charge=0>1.868</a></td>
+<td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc3 nowrap"><a href=exp2x.asp?casno=13873842&charge=0>1.910</a></td>
+<td class="ccc3 nowrap">$1.868$</td>
+      
+<td class="ccc3 nowrap">$1.910$</td>
       
 <td class="ccc3 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=7681825&charge=0>2.711</a></td>
+<td class="ccc5 nowrap">$2.711$</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=29977411&charge=0>2.537</a></td>
+<td class="ccc5 nowrap">$2.537$</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
@@ -2375,11 +2375,11 @@
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc5 nowrap"><a href=exp2x.asp?casno=7790990&charge=0>2.321</a></td>
+<td class="ccc5 nowrap">$2.321$</td>
       
 <td class="ccc5 nowrap">&nbsp;</td>
       
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=7681110&charge=0>3.048</a></td>
+<td class="ccc6 nowrap">$3.048$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
@@ -2403,13 +2403,13 @@
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
-<td class="ccc6 nowrap"><a href=exp2x.asp?casno=7789335&charge=0>2.469</a></td>
+<td class="ccc6 nowrap">$2.469$</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
       
 <td class="ccc6 nowrap">&nbsp;</td>
 
-<td class="bordered ccc6 nowrap"><a href=exp2x.asp?casno=7553562&charge=0>2.665</a></td>
+<td class="bordered ccc6 nowrap">$2.665$</td>
 
 </tr>
 
