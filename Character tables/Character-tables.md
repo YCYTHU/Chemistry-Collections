@@ -280,7 +280,7 @@ $\epsilon=\exp(2\pi i/3)$
 |  :---:       | :---:      | :---:     |     :---:     |       :---:     |     :---:     |     :---:  |
 | $\bf A_g$    | $\rm A_g$  |  $\rm B_g$|  $\rm E_g$    |  $\rm A_u$      |     $\rm B_u$ |  $\rm E_u$ |
 | $\bf B_g$    | $\rm B_g$  |  $\rm A_g$|  $\rm E_g$    |  $\rm B_u$      |     $\rm A_u$ |  $\rm E_u$ |
-| $\bf E_g$    | $\rm E_g$  |  $\rm E_g |  $\rm A_g\oplus B_g\oplus E_g$  |  $\rm E_u$  |  $\rm E_u$ |  $\rm A_u\oplus B_u\oplus E_u$ |
+| $\bf E_g$    | $\rm E_g$  |  $\rm E_g$ |  $\rm A_g\oplus B_g\oplus E_g$  |  $\rm E_u$  |  $\rm E_u$ |  $\rm A_u\oplus B_u\oplus E_u$ |
 | $\bf A_u$    | $\rm A_u$  |  $\rm B_u$|  $\rm E_u$    |  $\rm A_g$      |     $\rm B_g$ |  $\rm E_g$ |
 | $\bf B_u$    |  $\rm B_u$ |$\rm A_u$  |   $\rm E_u$   |     $\rm B_g$   |   $\rm A_g$   | $\rm E_g$  |
 | $\bf E_u$    |  $\rm E_u$ |$\rm E_u$  | $\rm A_u\oplus B_u\oplus E_u$ |     $\rm E_g$   |   $\rm E_g$  | $\rm A_g\oplus B_g\oplus E_g$ |
