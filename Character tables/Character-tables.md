@@ -442,7 +442,7 @@ x-axis align with $\rm C_2$
 <summary>$\ \bf D_{4d}$</summary>
 
 |           | $\bf E$ |  $\bf 2S_8$ |$\bf 2C_4$ |   $\bf 2S_8^3$    |  $\bf C_2$  | $\bf 4C_2'$  |$\bf 4\boldsymbol\sigma_d$|Linear , Rotations|      Quadratic     |     Cubic   |
-|  :---:    |  :---:  |   :---:     |  :---:    |    :---:     |     :---:    |    :---:   | :---:  |        :---:       |  :---:      |
+|  :---:    |  :---:  |   :---:     |  :---:    |    :---:     |     :---:    |    :---:   | :---:  |        :---:       |  :---:      |  :---:      |
 | $\bf A_1$ |    1    |      1      |       1   |       1      |    1 |    1      |      1     |  |    $x^2+y^2,z^2$   |  |
 | $\bf A_2$ |    1    |      1      |       1   |       1      |    1 |  -1      |     -1     | $R_z$|   |  |
 | $\bf B_1$    |    1    |     -1      |       1   |     -1        |   1  |    1     |      -1     |  |  |  |
@@ -454,7 +454,7 @@ x-axis align with $\rm C_2$
 x-axis align with $\rm C_2'$
   
 |                 | $\bf A_1$  | $\bf A_2$ |  $\bf B_1$   |  $\bf B_2$ |    $\bf E_1$  |  $\bf E_2$ | $\bf E_3$ |
-|  :---:          | :---:         | :---:        |     :---:     |       :---:        |     :---:        |     :---:  |
+|  :---:          | :---:         | :---:        |     :---:     |       :---:        |     :---:        |     :---:  |     :---:  |
 | $\bf A_1$    | $\rm A_1$  |  $\rm A_2$|  $\rm B_1$    |  $\rm B_2$      |     $\rm E_1$ |  $\rm E_2$ | $\rm E_3$ |
 | $\bf A_2$    |$\rm A_2$  |  $\rm A_1$|  $\rm B_2$    |  $\rm B_1$      |     $\rm E_1$ |  $\rm E_2$ | $\rm E_3$ |
 | $\bf B_1$       |$\rm B_1$  |  $\rm B_2$|  $\rm A_1$    |  $\rm A_2$      |     $\rm E_3$ |  $\rm E_2$ | $\rm E_1$ |
@@ -478,6 +478,8 @@ x-axis align with $\rm C_2'$
 |$\bf E_{1u}$  |    2  |$2\cos(2\pi/5)$|$2\cos(4\pi/5)$|      0         |    -2  |$-2\cos(2\pi/5)$|$-2\cos(4\pi/5)$|      0         |$(x,y)$ |        | $(xz^2,yz^2)$ |
 |$\bf E_{2u}$  |   2   |$2\cos(4\pi/5)$|$2\cos(2\pi/5)$|       0        |   -2   |$-2\cos(4\pi/5)$|$-2\cos(2\pi/5)$|       0        |           |     |$[xyz,z(x^2-y^2)],[x(x^2-3y^2),y(3x^2-y^2)$      |
 
+x-axis align with $\rm C_2$
+  
 |       | $\bf A_{1g}$ |   $\bf A_{2g}$ | $\bf E_{1g}$  | $\bf E_{2g}$   | $\bf A_{1u}$ |   $\bf A_{2u}$  | $\bf E_{1u}$  | $\bf E_{2u}$ |
 |  :---:       |   :---:   |  :---:        | :---:        |   :---:        |  :---:   |  :---:        | :---:        |   :---:        |
 | $\bf A_{1g}$    | $\rm A_{1g}$ |$\rm A_{2g}$ |$\rm E_{1g}$  |$\rm E_{2g}$  | $\rm A_{1u}$ | $\rm A_{2u}$ |$\rm E_{1u}$ |$\rm E_{2u}$ |
@@ -535,7 +537,15 @@ $\epsilon=\exp(2\pi i/3)$
 
 <details>
 <summary>$\ \bf C_{\infty v}$</summary>
-  
+
+|  | $\bf E$ | $\bf 2C_\infty^\varphi$ | $\bf\cdots$ | $\bf\infty\boldsymbol\sigma_v$ |Linear , Rotations|      Quadratic     |     Cubic   |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|$\bf A_1\equiv\Sigma^+$ |1|1|$\cdots$|1|$z$|$x^2+y^2,z^2$|$z^3$|
+|$\bf A_2\equiv\Sigma^-$ |1|1|$\cdots$|-1|$R_z$| | |
+|$\bf E_1\equiv\Pi$ |2 |$2\cos\varphi$|$\cdots$|0| $(x,y),(R_x.R_y)$| $(xz,yz)$ | $(xz^2,yz^2)$ |
+|$\bf E_2\equiv\Delta$ |2 |$2\cos2\varphi$|$\cdots$|0| | $(x^2-y^2,xy)$ | $[xyz,z(x^2-y^2)]$ |
+|$\bf E_3\equiv\Phi$ |2 |$2\cos3\varphi$|$\cdots$|0| | | $[x(x^2-3y^2),y(3x^2-y^2)]$ |
+|$\bf \cdots$ |$\cdots$|$\cdots$|$\cdots$|$\cdots$| |  |
 </details>
 
 <details>
