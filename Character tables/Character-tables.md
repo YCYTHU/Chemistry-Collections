@@ -478,5 +478,14 @@ $\epsilon=\exp(2\pi i/3)$
 | $\bf E_u$    |$\rm E_u$  | $\rm 2A_u\oplus E_u$ |    $\rm E_g$    |$\rm 2A_g\oplus E_g$|
 </details>
 
-## $\text{Linear Point Group}$
+## $\text{Linear Point Groups}$
 
+<details>
+<summary>$\ \bf C_{\infty v}$</summary>
+  
+</details>
+
+<details>
+<summary>$\ \bf D_{\infty h}$</summary>
+  
+</details>
