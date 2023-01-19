@@ -477,3 +477,6 @@ $\epsilon=\exp(2\pi i/3)$
 |$\bf A_u$     | $\rm A_u$ |  $\rm E_u$|    $\rm A_g$      |      $\rm E_g$     |
 | $\bf E_u$    |$\rm E_u$  | $\rm 2A_u\oplus E_u$ |    $\rm E_g$    |$\rm 2A_g\oplus E_g$|
 </details>
+
+## $\text{Linear Point Group}$
+
