@@ -1,6 +1,6 @@
 # Character tables & Product tables
 
-## $\text{Low-Symmetry Point Groups}$
+## $\text{Nonaxial groups}$
 <details>
 <summary>$\ \bf C_1$</summary>
 
@@ -41,7 +41,7 @@
 | $\bf A_u$  | $\rm A_u$ | $\rm A_g$    |
 </details>
 
-## $\rm C_n\text{ Point Groups}$
+## $\rm C_n\text{ groups}$
 
 <details>
 <summary>$\ \bf C_2$</summary>
@@ -127,7 +127,7 @@ $\epsilon=\exp(\pi i/3)$
 | $\bf E_2$  |$\rm E_2$|$\rm E_1$|    $\rm 2B\oplus E_1$    |$\rm 2A\oplus E_2 $ |
 </details>
 
-## $\rm C_{nv}\text{ Point Groups}$
+## $\rm C_{nv}\text{ groups}$
 
 <details>
 <summary>$\ \bf C_{2v}$</summary>
@@ -224,7 +224,7 @@ $\epsilon=\exp(\pi i/3)$
 | $\bf E_2$    |  $\rm E_2$ |$\rm E_2$  |   $\rm E_1$   |     $\rm E_1$   |   $\rm B_1\oplus B_2\oplus E_1$  | $\rm A_1\oplus A_2\oplus E_2$ |
 </details>
 
-## $\rm C_{nh}\text{ Point Groups}$
+## $\rm C_{nh}\text{ groups}$
 
 <details>
 <summary>$\ \bf C_{2h}$</summary>
@@ -286,7 +286,7 @@ $\epsilon=\exp(2\pi i/3)$
 | $\bf E_u$    |  $\rm E_u$ |$\rm E_u$  | $\rm A_u\oplus B_u\oplus E_u$ |     $\rm E_g$   |   $\rm E_g$  | $\rm A_g\oplus B_g\oplus E_g$ |
 </details>
 
-## $\rm D_{n}\text{ Point Groups}$
+## $\rm D_{n}\text{ groups}$
 
 <details>
 <summary>$\ \bf D_2$</summary>
@@ -390,7 +390,7 @@ x-axis align with $\rm C_2'$
 | $\bf E_2$    |  $\rm E_2$ |$\rm E_2$  |   $\rm E_1$   |     $\rm E_1$   |   $\rm B_1\oplus B_2\oplus E_1$  | $\rm A_1\oplus A_2\oplus E_2$ |
 </details>
 
-## $\rm D_{nd}\text{ Point Groups}$
+## $\rm D_{nd}\text{ groups}$
 
 <details>
 <summary>$\ \bf D_{2d}$</summary>
@@ -438,9 +438,9 @@ x-axis align with $\rm C_2$
 | $\bf E_u$       | $\rm E_u$     |  $\rm E_u$   |  $\rm A_{1u}\oplus A_{2u}\oplus E_u$    |  $\rm E_g$   |     $\rm E_g$ |  $\rm A_{1g}\oplus A_{2g}\oplus E_g$|
 </details>
 
-## $\rm D_{nh}\text{ Point Groups}$
+## $\rm D_{nh}\text{ groups}$
 
-## $\rm S_n\text{ Point Groups}$
+## $\rm S_n\text{ groups}$
 
 <details>
 <summary>$\ \bf S_4$</summary>
@@ -478,7 +478,8 @@ $\epsilon=\exp(2\pi i/3)$
 | $\bf E_u$    |$\rm E_u$  | $\rm 2A_u\oplus E_u$ |    $\rm E_g$    |$\rm 2A_g\oplus E_g$|
 </details>
 
-## $\text{Linear Point Groups}$
+## $\text{Cubic groups}$
+## $\text{Linear groups}$
 
 <details>
 <summary>$\ \bf C_{\infty v}$</summary>
