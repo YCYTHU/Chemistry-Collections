@@ -2,71 +2,71 @@
 <table border="1">
 <tr><th>&nbsp;</th>
 
-<th>H</th>
+<th>$\rm H$</th>
 
-<th>Li</th>
+<th>$\rm Li$</th>
 
-<th>Be</th>
+<th>$\rm Be$</th>
 
-<th>B</th>
+<th>$\rm B$</th>
 
-<th>C</th>
+<th>$\rm C$</th>
 
-<th>N</th>
+<th>$\rm N$</th>
 
-<th>O</th>
+<th>$\rm O$</th>
 
-<th>F</th>
+<th>$\rm F$</th>
 
-<th>Ne</th>
+<th>$\rm Ne$</th>
 
-<th>Na</th>
+<th>$\rm Na$</th>
 
-<th>Mg</th>
+<th>$\rm Mg$</th>
 
-<th>Al</th>
+<th>$\rm Al$</th>
 
-<th>Si</th>
+<th>$\rm Si$</th>
 
-<th>P</th>
+<th>$\rm P$</th>
 
-<th>S</th>
+<th>$\rm S$</th>
 
-<th>Cl</th>
+<th>$\rm Cl$</th>
 
-<th>Ar</th>
+<th>$\rm Ar$</th>
 
-<th>K</th>
+<th>$\rm K$</th>
 
-<th>Ca</th>
+<th>$\rm Ca$</th>
 
-<th>Sc</th>
+<th>$\rm Sc$</th>
 
-<th>Ti</th>
+<th>$\rm Ti$</th>
 
-<th>V</th>
+<th>$\rm V$</th>
 
-<th>Cr</th>
+<th>$\rm Cr$</th>
 
-<th>Cu</th>
+<th>$\rm Cu$</th>
 
-<th>Zn</th>
+<th>$\rm Zn$</th>
 
-<th>Ga</th>
+<th>$\rm Ga$</th>
 
-<th>Ge</th>
+<th>$\rm Ge$</th>
 
-<th>As</th>
+<th>$\rm As$</th>
 
-<th>Se</th>
+<th>$\rm Se$</th>
 
-<th>Br</th>
+<th>$\rm Br$</th>
 
-<th>Sb</th>
+<th>$\rm Sb$</th>
 
-<th>Te</th>
+<th>$\rm Te$</th>
 
-<th>I</th>
+<th>$\rm I$</th>
 
 </tr>
 
@@ -75,9 +75,9 @@
 
 <td class="bordered ccc1 nowrap">$0.741$</td>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=7580678&charge=0>1.595</a></td>
+<td class="ccc1 nowrap">1.595</td>
       
-<td class="ccc1 nowrap"><a href=exp2x.asp?casno=13597972&charge=0>1.343</a></td>
+<td class="ccc1 nowrap">1.343</td>
       
 <td class="ccc1 nowrap"><a href=exp2x.asp?casno=13766262&charge=0>1.232</a></td>
       
