@@ -1,6 +1,6 @@
 
 <table border="1">
-<tr><th>&nbsp;</th>
+<tr><th>$\bf Å$</th>
 
 <th>$\rm H$</th>
 
