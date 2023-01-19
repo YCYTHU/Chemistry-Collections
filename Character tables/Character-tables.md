@@ -191,7 +191,7 @@ $\epsilon=\exp(\pi i/3)$
 |  :---:    |  :---:|     :---:   |     :---:    |    :---:       |        :---:     |        :---:       |             :---:      |
 | $\bf A_1$ |    1  |         1   |       1      |       1        |        $z$       |    $x^2+y^2,z^2$   |     $z^3$   |
 | $\bf A_2$ |    1  |      1      |      1       |       -1       |        $R_z$     |                    |             |
-|$\bf E_1$  |    2  |$2\cos(2\pi/5)$|$2\cos(4\pi/5)$|      0         |$(x,y),(R_x,R_y)$ |        $(xz,yz)$   | $xz^2,yz^2$ |
+|$\bf E_1$  |    2  |$2\cos(2\pi/5)$|$2\cos(4\pi/5)$|      0         |$(x,y),(R_x,R_y)$ |        $(xz,yz)$   | $(xz^2,yz^2)$ |
 |$\bf E_2$  |   2   |$2\cos(4\pi/5)$|$2\cos(2\pi/5)$|       0        |           |        $(x^2-y^2,xy)$  |$[xyz,z(x^2-y^2)],[x(x^2-3y^2),y(3x^2-y^2)$      |
 
 |              | $\bf A_1$ |   $\bf A_2$   | $\bf E_1$    | $\bf E_2$      |
@@ -436,6 +436,58 @@ x-axis align with $\rm C_2$
 | $\bf A_{1u}$    | $\rm A_{1u}$  |  $\rm A_{2u}$|  $\rm E_u$    |  $\rm A_{1g}$      |     $\rm A_{2g}$ |  $\rm E_g$ |
 |$\bf A_{2u}$     | $\rm A_{2u}$  |  $\rm A_{1u}$|  $\rm E_u$    |  $\rm A_{2g}$      |     $\rm A_{1g}$ |  $\rm E_g$ |
 | $\bf E_u$       | $\rm E_u$     |  $\rm E_u$   |  $\rm A_{1u}\oplus A_{2u}\oplus E_u$    |  $\rm E_g$   |     $\rm E_g$ |  $\rm A_{1g}\oplus A_{2g}\oplus E_g$|
+</details>
+
+<details>
+<summary>$\ \bf D_{4d}$</summary>
+
+|           | $\bf E$ |  $\bf 2S_8$ |$\bf 2C_4$ |   $\bf 2S_8^3$    |  $\bf C_2$  | $\bf 4C_2'$  |$\bf 4\boldsymbol\sigma_d$|Linear , Rotations|      Quadratic     |     Cubic   |
+|  :---:    |  :---:  |   :---:     |  :---:    |    :---:     |     :---:    |    :---:   | :---:  |        :---:       |  :---:      |
+| $\bf A_1$ |    1    |      1      |       1   |       1      |    1 |    1      |      1     |  |    $x^2+y^2,z^2$   |  |
+| $\bf A_2$ |    1    |      1      |       1   |       1      |    1 |  -1      |     -1     | $R_z$|   |  |
+| $\bf B_1$    |    1    |     -1      |       1   |     -1        |   1  |    1     |      -1     |  |  |  |
+| $\bf B_2$    |    1    |     -1      |       1   |     -1        |     1 |  -1     |     1     | $z$ | | $z^3$ |
+| $\bf E_1$ |    2    |      $\sqrt2$      |      0   |      $-\sqrt2$      |      -2      |    0 |  0   |$(x,y)$  |  |  $(xz^2,yz^2)$   |
+| $\bf E_2$ |    2    |      0      |      -2   |      0      |      2      |     0 |  0   |  | $(x^2-y^2,xy)$ |  $[xyz,z(x^2-y^2)]$   |
+| $\bf E_3$    |    2    |     $-\sqrt2$      |       0   |      $\sqrt2$      |     -2      |   0 |   0     | $(R_x,R_y)$ |$(xz,yz)$ |  $[x(x^2-3y^2),y(3x^2-y^2)]$   |
+
+x-axis align with $\rm C_2'$
+  
+|                 | $\bf A_1$  | $\bf A_2$ |  $\bf B_1$   |  $\bf B_2$ |    $\bf E_1$  |  $\bf E_2$ | $\bf E_3$ |
+|  :---:          | :---:         | :---:        |     :---:     |       :---:        |     :---:        |     :---:  |
+| $\bf A_1$    | $\rm A_1$  |  $\rm A_2$|  $\rm B_1$    |  $\rm B_2$      |     $\rm E_1$ |  $\rm E_2$ | $\rm E_3$ |
+| $\bf A_2$    |$\rm A_2$  |  $\rm A_1$|  $\rm B_2$    |  $\rm B_1$      |     $\rm E_1$ |  $\rm E_2$ | $\rm E_3$ |
+| $\bf B_1$       |$\rm B_1$  |  $\rm B_2$|  $\rm A_1$    |  $\rm A_2$      |     $\rm E_3$ |  $\rm E_2$ | $\rm E_1$ |
+| $\bf B_2$    | $\rm B_2$  |  $\rm B_1$|  $\rm A_2$    |  $\rm A_1$      |     $\rm E_3$ |  $\rm E_2$ | $\rm E_1$ |
+|$\bf E_1$     | $\rm E_1$  |  $\rm E_1$|  $\rm E_3$    |  $\rm E_3$      | $\rm A_1\oplus A_2\oplus E_2$ |  $\rm E_1\oplus E_3$ | $\rm B_1\oplus B_2\oplus E_2$ |
+| $\bf E_2$       |  $\rm E_2$  |  $\rm E_2$|  $\rm E_2$    |  $\rm E_2$      | $\rm E_1\oplus E_3$ |  $\rm A_1\oplus A_2\oplus B_1\oplus B_2$ | $\rm E_1\oplus E_3$ |
+| $\bf E_3$       |  $\rm E_3$  |  $\rm E_3$|  $\rm E_1$    |  $\rm E_1$      | $\rm B_1\oplus B_2\oplus E_2$ |  $\rm E_1\oplus E_3$  | $\rm A_1\oplus A_2\oplus E_2$ |
+</details>
+
+<details>
+<summary>$\ \bf D_{5d}$</summary>
+
+|         | $\bf E$ |  $\bf 2C_5$ | $\bf 2C_5^2$ | $\bf 5C_2$ | $\bf i$ | $2S_{10}^3$ |  $2S_{10}$ | $\bf 5\boldsymbol\sigma_d$ |  Linear , Rotations  |   Quadratic  | Cubic |
+|  :---:    |  :---:|     :---:   |     :---:    |    :---:    |   :---:     |    :---:    |    :---:      |   :---:    |   :---:     |    :---:    |    :---:      |
+| $\bf A_{1g}$ |    1  |         1   |       1      |       1        |    1  |         1   |       1      |       1        |       |    $x^2+y^2,z^2$   |    |
+| $\bf A_{2g}$ |    1  |      1      |      1       |       -1       |    1  |      1      |      1       |       -1       |   $R_z$     |         |     |
+|$\bf E_{1g}$  |    2  |$2\cos(2\pi/5)$|$2\cos(4\pi/5)$|      0         |    2  |$2\cos(2\pi/5)$|$2\cos(4\pi/5)$|      0         |$(R_x,R_y)$ |        $(xz,yz)$   | |
+|$\bf E_{2g}$  |   2   |$2\cos(4\pi/5)$|$2\cos(2\pi/5)$|       0        |   2   |$2\cos(4\pi/5)$|$2\cos(2\pi/5)$|       0        |           |        $(x^2-y^2,xy)$  |   |
+| $\bf A_{1u}$ |    1  |         1   |       1      |       1        |    -1  |         -1   |       -1      |       -1        |    |   |       |
+| $\bf A_{2u}$ |    1  |      1      |      1       |   -1   |    -1  |      -1      |      -1       |       1   | $z$     |   | $z^3$  |
+|$\bf E_{1u}$  |    2  |$2\cos(2\pi/5)$|$2\cos(4\pi/5)$|      0         |    -2  |$-2\cos(2\pi/5)$|$-2\cos(4\pi/5)$|      0         |$(x,y)$ |        | $(xz^2,yz^2)$ |
+|$\bf E_{2u}$  |   2   |$2\cos(4\pi/5)$|$2\cos(2\pi/5)$|       0        |   -2   |$-2\cos(4\pi/5)$|$-2\cos(2\pi/5)$|       0        |           |     |$[xyz,z(x^2-y^2)],[x(x^2-3y^2),y(3x^2-y^2)$      |
+
+|       | $\bf A_{1g}$ |   $\bf A_{2g}$ | $\bf E_{1g}$  | $\bf E_{2g}$   | $\bf A_{1u}$ |   $\bf A_{2u}$  | $\bf E_{1u}$  | $\bf E_{2u}$ |
+|  :---:       |   :---:   |  :---:        | :---:        |   :---:        |  :---:   |  :---:        | :---:        |   :---:        |
+| $\bf A_{1g}$    | $\rm A_{1g}$ |$\rm A_{2g}$ |$\rm E_{1g}$  |$\rm E_{2g}$  | $\rm A_{1u}$ | $\rm A_{2u}$ |$\rm E_{1u}$ |$\rm E_{2u}$ |
+| $\bf A_{2g}$    | $\rm A_{2g}$ |$\rm A_{1g}$ |$\rm E_{1g}$  |$\rm E_{2g}$  | $\rm A_{2u}$ | $\rm A_{1u}$ |$\rm E_{1u}$ |$\rm E_{2u}$ |
+|$\bf E_{1g}$     | $\rm E_{1g}$ |   $\rm E_{1g}$   |$\rm A_{1g}\oplus A_{2g}\oplus E_{2g}$     |$\rm E_{1g}\oplus E_{2g}$       | $\rm E_{1u}$ |   $\rm E_{1u}$   |$\rm A_{1u}\oplus A_{2u}\oplus E_{2u}$     |$\rm E_{1u}\oplus E_{2u}$       |
+|$\bf E_{2g}$     | $\rm E_{2g}$ |   $\rm E_{2g}$   |$\rm E_{1g}\oplus E_{2g}$  |$\rm A_{1g}\oplus A_{2g}\oplus E_{2g}$  | $\rm E_{2u}$ |   $\rm E_{2u}$   |$\rm E_{1u}\oplus E_{2u}$     |  $\rm A_{1u}\oplus A_{2u}\oplus E_{2u}$   |
+| $\bf A_{1u}$    | $\rm A_{1u}$ |$\rm A_{2u}$ |$\rm E_{1u}$  |$\rm E_{2u}$  | $\rm A_{1g}$ | $\rm A_{2g}$ |$\rm E_{1g}$ |$\rm E_{2g}$ |
+| $\bf A_{2u}$    | $\rm A_{2u}$ |$\rm A_{1u}$ |$\rm E_{1u}$  |$\rm E_{2u}$  | $\rm A_{2g}$ | $\rm A_{1g}$ |$\rm E_{1g}$ |$\rm E_{2g}$ |
+|$\bf E_{1u}$     | $\rm E_{1u}$ |   $\rm E_{1u}$   |$\rm A_{1u}\oplus A_{2u}\oplus E_{2u}$     |$\rm E_{1u}\oplus E_{2u}$       | $\rm E_{1g}$ |   $\rm E_{1g}$   |$\rm A_{1g}\oplus A_{2g}\oplus E_{2g}$     |$\rm E_{1g}\oplus E_{2g}$       |
+|$\bf E_{2u}$     | $\rm E_{2u}$ |   $\rm E_{2u}$   |$\rm E_{1u}\oplus E_{2u}$  |$\rm A_{1u}\oplus A_{2u}\oplus E_{2u}$  | $\rm E_{2g}$ |   $\rm E_{2g}$   |$\rm E_{1g}\oplus E_{2g}$     |  $\rm A_{1g}\oplus A_{2g}\oplus E_{2g}$   |
 </details>
 
 ## $\rm D_{nh}\text{ groups}$
