@@ -286,9 +286,6 @@ $\epsilon=\exp(2\pi i/3)$
 | $\bf E_u$    |  $\rm E_u$ |$\rm E_u$  | $\rm A_u\oplus B_u\oplus E_u$ |     $\rm E_g$   |   $\rm E_g$  | $\rm A_g\oplus B_g\oplus E_g$ |
 </details>
 
-
-
-
 ## $\rm D_{n}\text{ Point Groups}$
 
 <details>
@@ -337,7 +334,8 @@ x-axis align with $\rm C_2$
 |   $\bf B_1$ |    1    |        -1       |       1   |       1        |         -1     |    | $x^2-y^2$  | $xyz$ |
 |   $\bf B_2$ |    1    |        -1       |       1   |      -1        |          1     |    | $xy$  | $z(x^2-y^2)$ |
 |   $\bf E$   |    2    |         0       |      -2   |       0        |          0     |  $(x,y),(R_x,R_y)$  | $(xz,yz)$  | $(xz^2,yz^2),[x(x^2-3y^2),y(3x^2-y^2)]$ |
-  
+
+x-axis align with $\rm C_2'$
   
 |            | $\bf A_1$ |     $\bf A_2$    |  $\bf B_1$    |  $\bf B_2$    |  $\bf E$    |
 |  :---:     | :---:     |          :---:   |       :---:   |      :---:    |     :---:   |
@@ -358,6 +356,8 @@ x-axis align with $\rm C_2$
 |$\bf E_1$  |    2  |$2\cos(2\pi/5)$|$2\cos(4\pi/5)$|      0         |$(x,y),(R_x,R_y)$ |    $(xz,yz)$   | $xz^2,yz^2$ |
 |$\bf E_2$  |   2   |$2\cos(4\pi/5)$|$2\cos(2\pi/5)$|       0        |    |   $(x^2-y^2,xy)$  |$[xyz,z(x^2-y^2)],[x(x^2-3y^2),y(3x^2-y^2)$      |
 
+x-axis align with $\rm C_2$
+  
 |              | $\bf A_1$ |   $\bf A_2$   | $\bf E_1$    | $\bf E_2$      |
 |  :---:       |   :---:   |  :---:        | :---:        |   :---:        |
 | $\bf A_1$    | $\rm A_1$ |   $\rm A_2$   |$\rm E_1$     |$\rm E_2$       |
@@ -377,6 +377,8 @@ x-axis align with $\rm C_2$
 | $\bf B_2$ |    1    |     -1      |       1   |      -1      |      -1      |      1     |  |  |  $y(3x^2-y^2)$   |
 | $\bf E_1$ |    2    |      1      |      -1   |      -2      |       0      |      0     | $(x,y),(R_x,R_y)$ |$(xz,yz)$|  $(xz^2,yz^2)$   |
 | $\bf E_2$ |    2    |     -1      |      -1   |       2      |       0      |      0     |  |$(x^2-y^2,xy)$|  $[xyz,z(x^2-y^2)]$   |
+
+x-axis align with $\rm C_2'$
   
 |              | $\bf A_1$  | $\bf A_2$ | $\bf B_1$     |  $\bf B_2$      |    $\bf E_1$  |  $\bf E_2$ |
 |  :---:       | :---:      | :---:     |     :---:     |       :---:     |     :---:     |     :---:  |
@@ -388,5 +390,89 @@ x-axis align with $\rm C_2$
 | $\bf E_2$    |  $\rm E_2$ |$\rm E_2$  |   $\rm E_1$   |     $\rm E_1$   |   $\rm B_1\oplus B_2\oplus E_1$  | $\rm A_1\oplus A_2\oplus E_2$ |
 </details>
 
+## $\rm D_{nd}\text{ Point Groups}$
 
+<details>
+<summary>$\ \bf D_{2d}$</summary>
 
+|             | $\bf E$ |    $\bf 2S_4$   | $\bf C_2$ |$\bf 2C_2'$     |$\bf 2\boldsymbol\sigma_d$    |Linear , Rotations|      Quadratic     |     Cubic   |
+|  :---:      |  :---:  |       :---:     |  :---:    |    :---:       |       :---:    |    :---:     |        :---:       |  :---:      |
+|   $\bf A_1$ |    1    |         1       |       1   |       1        |          1     |              |    $x^2+y^2,z^2$   | $xyz$ |
+|   $\bf A_2$ |    1    |         1       |       1   |      -1        |         -1     |     $R_z$  |     |   $z(x^2-y^2)$ |
+|   $\bf B_1$ |    1    |        -1       |       1   |       1        |         -1     |    | $x^2-y^2$  |     |
+|   $\bf B_2$ |    1    |        -1       |       1   |      -1        |          1     | $z$ | $xy$ | $z^3$ |
+|   $\bf E$   |    2    |         0       |      -2   |       0        |          0     |  $(x,y),(R_x,R_y)$  | $(xz,yz)$  | $(xz^2,yz^2),[x(x^2-3y^2),y(3x^2-y^2)]$ |
+
+x-axis align with $\rm C_2'$
+  
+|            | $\bf A_1$ |     $\bf A_2$    |  $\bf B_1$    |  $\bf B_2$    |  $\bf E$    |
+|  :---:     | :---:     |          :---:   |       :---:   |      :---:    |     :---:   |
+| $\bf A_1$  | $\rm A_1$ |   $\rm A_2$      |  $\rm B_1$    | $\rm B_2$     | $\rm E$     |
+|$\bf A_2$   | $\rm A_2$ |   $\rm A_1$      |  $\rm B_2$    | $\rm B_1$     | $\rm E$     |
+| $\bf B_1$  | $\rm B_1$ |   $\rm B_2$      |  $\rm A_1$    | $\rm A_2$     | $\rm E$     |
+| $\bf B_2$  | $\rm B_2$ |   $\rm B_1$      |  $\rm A_2$    | $\rm A_1$     | $\rm E$     |
+| $\bf E$    | $\rm E$   |   $\rm E$        |  $\rm E$      | $\rm E$       | $\rm A_1\oplus A_2\oplus B_1\oplus B_2$     |
+</details>
+
+<details>
+<summary>$\ \bf D_{3d}$</summary>
+
+|           | $\bf E$ |  $\bf 2C_3$ |$\bf 3C_2$ |   $\bf i$    |  $\bf 2S_6$  |$\bf 3\boldsymbol\sigma_d$|Linear , Rotations|      Quadratic     |     Cubic   |
+|  :---:    |  :---:  |   :---:     |  :---:    |    :---:     |     :---:    |    :---:   | :---:  |        :---:       |  :---:      |
+| $\bf A_{1g}$ |    1    |      1      |       1   |       1      |       1      |      1     |        |    $x^2+y^2,z^2$   |       |
+| $\bf A_{2g}$ |    1    |      1      |      -1   |       1      |       1      |     -1     | $R_z$|   |  |
+| $\bf E_g$    |    2    |     -1      |       0   |     2        |       -1     |      0     | $(R_x,R_y)$ |$(x^2-y^2,xy),(xz,yz)$|  |
+| $\bf A_{1u}$ |    1    |      1      |       1   |      -1      |      -1      |     -1     |  |  |  $x(x^2-3y^2)$   |
+| $\bf A_{2u}$ |    1    |      1      |      -1   |      -1      |      -1      |      1     | $z$ |  |  $y(3x^2-y^2),z^3$   |
+| $\bf E_u$    |    2    |     -1      |       0   |      -2      |       1      |      0     | $(x,y)$ |   |  $(xz^2,yz^2),[xyz,z(x^2-y^2)]$   |
+
+x-axis align with $\rm C_2$
+  
+|                 | $\bf A_{1g}$  | $\bf A_{2g}$ | $\bf E_g$     |  $\bf A_{1u}$      |    $\bf A_{2u}$  |  $\bf E_u$ |
+|  :---:          | :---:         | :---:        |     :---:     |       :---:        |     :---:        |     :---:  |
+| $\bf A_{1g}$    | $\rm A_{1g}$  |  $\rm A_{2g}$|  $\rm E_g$    |  $\rm A_{1u}$      |     $\rm A_{2u}$ |  $\rm E_u$ |
+| $\bf A_{2g}$    | $\rm A_{2g}$  |  $\rm A_{1g}$|  $\rm E_g$    |  $\rm A_{2u}$      |     $\rm A_{1u}$ |  $\rm E_u$ |
+| $\bf E_g$       | $\rm E_g$     |  $\rm E_g$   |  $\rm A_{1g}\oplus A_{2g}\oplus E_g$    |  $\rm E_u$   |     $\rm E_u$ |  $\rm A_{1u}\oplus A_{2u}\oplus E_u$|
+| $\bf A_{1u}$    | $\rm A_{1u}$  |  $\rm A_{2u}$|  $\rm E_u$    |  $\rm A_{1g}$      |     $\rm A_{2g}$ |  $\rm E_g$ |
+|$\bf A_{2u}$     | $\rm A_{2u}$  |  $\rm A_{1u}$|  $\rm E_u$    |  $\rm A_{2g}$      |     $\rm A_{1g}$ |  $\rm E_g$ |
+| $\bf E_u$       | $\rm E_u$     |  $\rm E_u$   |  $\rm A_{1u}\oplus A_{2u}\oplus E_u$    |  $\rm E_g$   |     $\rm E_g$ |  $\rm A_{1g}\oplus A_{2g}\oplus E_g$|
+
+## $\rm D_{nh}\text{ Point Groups}$
+
+## $\rm S_n\text{ Point Groups}$
+
+<details>
+<summary>$\ \bf S_4$</summary>
+
+|         | $\bf E$ |    $\bf S_4$    | $\bf C_2$ |   $\bf S_4^3$  | Linear , Rotations   |      Quadratic     |     Cubic   |
+|  :---:  |  :---:  |       :---:     |  :---:    |    :---:       |        :---:         |        :---:       |  :---:      |
+| $\bf A$ |    1    |         1       |       1   |       1        |        $R_z$       |    $x^2+y^2,z^2$   | $xyz,z(x^2-y^2)$  |
+| $\bf B$ |    1    |     -1          |     1     |       -1       |          $z$       |     $x^2-y^2,xy$   |   $z^3$   |
+|$\bf E$  | 1<br>1  | $i$ <br> $-i$   |-1 <br> -1 | $-i$ <br> $i$  |$(x,y),(R_x,R_y)$      |   $(xz,yz)$   |$(xz^2,yz^2),[x(x^2-3y^2),y(3x^2-y^2)]$
+
+|            | $\bf A$ | $\bf B$       | $\bf E$      |
+|  :---:     | :---:   |  :---:        | :---:        |
+| $\bf A$    | $\rm A$ |   $\rm B$     |$\rm E$       |
+|$\bf B$     | $\rm B$ |   $\rm A$     |$\rm E$       |
+| $\bf E$    | $\rm E$ |    $\rm E$    |$\rm 2A\oplus2B $    |
+</details>
+
+  <details>
+<summary>$\ \bf S_6$</summary>
+
+|         | $\bf E$ |  $\bf C_6$  |$\bf C_3$  |   $\bf C_2$  | $\bf C_3^2$  | $\bf C_6^5$|Linear , Rotations|      Quadratic     |     Cubic   |
+|  :---:  |  :---:  |   :---:     |  :---:    |    :---:     |     :---:    |    :---:   | :---:   |        :---:       |  :---:      |
+| $\bf A_g$ |    1    |      1      |       1   |       1      |       1      |      1     |$R_z$  |    $x^2+y^2,z^2$   |      |
+| $\bf E_g$ | 1 <br> 1|$\epsilon$<br>$\epsilon^*$|$\epsilon^*$<br>$\epsilon$|1<br>1|$\epsilon$<br>$\epsilon^*$|$\epsilon^*$<br>$\epsilon$| $(R_x,R_y)$         | $(x^2-y^2,xy),(xz,yz)$ | $(xz^2,yz^2)$|
+| $\bf A_u$ |    1    |       1      |       1   |      -1      |      -1      |     -1     |  $z$ |                    |     $z^3,x(x^2-3y^2),y(3x^2-y^2)$   |
+|$\bf E_u$  |1 <br> 1|$\epsilon$<br>$\epsilon^*$|$\epsilon^*$<br>$\epsilon$|-1<br>-1|$-\epsilon$<br>$-\epsilon^*$|$-\epsilon^*$<br>$-\epsilon$|  $(x,y)$ |     |$(xz^2,yz^2),[xyz,z(x^2-y^2)]$
+
+$\epsilon=\exp(2\pi i/3)$
+  
+|              | $\bf A_g$ | $\bf E_g$ |     $\bf A_u$     |       $\bf E_u$    |
+|  :---:       |   :---:   |   :---:   |      :---:        |       :---:        |
+| $\bf A_g$    | $\rm A_g$ |  $\rm E_g$|    $\rm A_u$      |      $\rm E_u$     |
+| $\bf E_g$    | $\rm E_g$ |  $\rm 2A_g\oplus E_g$|    $\rm A_u$      |      $\rm 2A_u\oplus E_u$     |  
+|$\bf A_u$     | $\rm A_u$ |  $\rm E_u$|    $\rm A_g$      |      $\rm E_g$     |
+| $\bf E_u$    |$\rm E_u$  | $\rm 2A_u\oplus E_u$ |    $\rm E_g$    |$\rm 2A_g\oplus E_g$|
+</details>
