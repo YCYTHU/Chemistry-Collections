@@ -1,11 +1,13 @@
 # Name reactions
 
-<h2>0-9</h2>
+<details>
+	<summary><b>0-9</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/1,2-Wittig_rearrangement" title="1,2-Wittig rearrangement">1,2-Wittig rearrangement</a></li>
 <li><a href="https://en.wikipedia.org/wiki/1,3-Dipolar_cycloaddition" title="1,3-Dipolar cycloaddition">1,3-Dipolar cycloaddition</a></li>
 <li><a href="https://en.wikipedia.org/wiki/2,3-Wittig_rearrangement" title="2,3-Wittig rearrangement">2,3-Wittig rearrangement</a></li></ul>
-
-<h2>A</h2>
+</details>
+<details>
+<summary><b>A</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Tryptamine#Synthesis" title="Tryptamine">Abramovitch–Shapiro tryptamine synthesis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Acetalisation" class="mw-redirect" title="Acetalisation">Acetalisation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Acetoacetic_ester_condensation" class="mw-redirect" title="Acetoacetic ester condensation">Acetoacetic ester condensation</a></li>
@@ -41,8 +43,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Auwers_synthesis" title="Auwers synthesis">Auwers synthesis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Aza-Cope_rearrangement" title="Aza-Cope rearrangement">Aza-Cope rearrangement</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Azo_coupling" title="Azo coupling">Azo coupling</a></li></ul>
-
-<h2>B</h2>
+</details>
+<details>
+<summary><b>B</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Baeyer%E2%80%93Drewson_indigo_synthesis" title="Baeyer–Drewson indigo synthesis">Baeyer–Drewson indigo synthesis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Baeyer%E2%80%93Villiger_oxidation" title="Baeyer–Villiger oxidation">Baeyer–Villiger oxidation</a>, <a href="https://en.wikipedia.org/wiki/Baeyer%E2%80%93Villiger_rearrangement" class="mw-redirect" title="Baeyer–Villiger rearrangement">Baeyer–Villiger rearrangement</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Bakeland_process_(Bakelite)" class="mw-redirect" title="Bakeland process (Bakelite)">Bakeland process (Bakelite)</a></li>
@@ -124,8 +127,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Buchwald%E2%80%93Hartwig_amination" title="Buchwald–Hartwig amination">Buchwald–Hartwig amination</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Bunnett_reaction" class="mw-redirect" title="Bunnett reaction">Bunnett reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Burgess_reagent" title="Burgess reagent">Burgess reagent</a></li></ul>
-
-<h2>C</h2>
+</details>
+<details>
+<summary><b>C</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Cadiot%E2%80%93Chodkiewicz_coupling" title="Cadiot–Chodkiewicz coupling">Cadiot–Chodkiewicz coupling</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Cadogan-Sundberg_indole_synthesis" class="mw-redirect" title="Cadogan-Sundberg indole synthesis">Cadogan-Sundberg indole synthesis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Camps_quinoline_synthesis" title="Camps quinoline synthesis">Camps quinoline synthesis</a></li>
@@ -181,8 +185,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Curtius_degradation" class="mw-redirect" title="Curtius degradation">Curtius degradation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Curtius_rearrangement" title="Curtius rearrangement">Curtius rearrangement</a>, <a href="https://en.wikipedia.org/wiki/Curtius_reaction" class="mw-redirect" title="Curtius reaction">Curtius reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Cyanohydrin_reaction" title="Cyanohydrin reaction">Cyanohydrin reaction</a></li></ul>
-
-<h2>D</h2>
+</details>
+<details>
+<summary><b>D</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Dakin_reaction" class="mw-redirect" title="Dakin reaction">Dakin reaction</a> (aka Dakin oxidation)</li>
 <li><a href="https://en.wikipedia.org/wiki/Dakin%E2%80%93West_reaction" title="Dakin–West reaction">Dakin–West reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Danheiser_annulation" title="Danheiser annulation">Danheiser annulation</a></li>
@@ -223,8 +228,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Duff_reaction" title="Duff reaction">Duff reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Dutt%E2%80%93Wormall_reaction" class="mw-redirect" title="Dutt–Wormall reaction">Dutt–Wormall reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Dyotropic_reaction" title="Dyotropic reaction">Dyotropic reaction</a></li></ul>
-
-<h2>E</h2>
+</details>
+<details>
+<summary><b>E</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/E1cB_elimination_reaction" class="mw-redirect" title="E1cB elimination reaction">E1cB elimination reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Eder_reaction" class="mw-redirect" title="Eder reaction">Eder reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Edman_degradation" title="Edman degradation">Edman degradation</a></li>
@@ -256,8 +262,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Evans_aldol" class="mw-redirect" title="Evans aldol">Evans aldol</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Evans%E2%80%93Saksena_reduction" title="Evans–Saksena reduction">Evans–Saksena reduction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Evans%E2%80%93Tishchenko_reaction" title="Evans–Tishchenko reaction">Evans–Tishchenko reaction</a></li></ul>
-
-<h2>F</h2>
+</details>
+<details>
+<summary><b>F</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Favorskii_reaction" title="Favorskii reaction">Favorskii reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Favorskii_rearrangement" title="Favorskii rearrangement">Favorskii rearrangement</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Favorskii%E2%80%93Babayan_synthesis" class="mw-redirect" title="Favorskii–Babayan synthesis">Favorskii–Babayan synthesis</a></li>
@@ -301,8 +308,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Fukuyama_coupling" title="Fukuyama coupling">Fukuyama coupling</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Fukuyama_indole_synthesis" title="Fukuyama indole synthesis">Fukuyama indole synthesis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Fukuyama_reduction" title="Fukuyama reduction">Fukuyama reduction</a></li></ul>
-
-<h2>G</h2>
+</details>
+<details>
+<summary><b>G</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Gabriel_ethylenimine_method" class="mw-redirect" title="Gabriel ethylenimine method">Gabriel ethylenimine method</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Gabriel_synthesis" title="Gabriel synthesis">Gabriel synthesis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Gabriel%E2%80%93Colman_rearrangement" title="Gabriel–Colman rearrangement">Gabriel–Colman rearrangement</a>, <a href="https://en.wikipedia.org/wiki/Gabriel_isoquinoline_synthesis" class="mw-redirect" title="Gabriel isoquinoline synthesis">Gabriel isoquinoline synthesis</a></li>
@@ -333,8 +341,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Guareschi%E2%80%93Thorpe_condensation" class="mw-redirect" title="Guareschi–Thorpe condensation">Guareschi–Thorpe condensation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Guerbet_reaction" title="Guerbet reaction">Guerbet reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Gutknecht_pyrazine_synthesis" class="mw-redirect" title="Gutknecht pyrazine synthesis">Gutknecht pyrazine synthesis</a></li></ul>
-
-<h2>H</h2>
+</details>
+<details>
+<summary><b>H</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Hajos%E2%80%93Parrish%E2%80%93Eder%E2%80%93Sauer%E2%80%93Wiechert_reaction" title="Hajos–Parrish–Eder–Sauer–Wiechert reaction">Hajos–Parrish–Eder–Sauer–Wiechert reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Haller%E2%80%93Bauer_reaction" class="mw-redirect" title="Haller–Bauer reaction">Haller–Bauer reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Haloform_reaction" title="Haloform reaction">Haloform reaction</a></li>
@@ -401,8 +410,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Hydroboration" title="Hydroboration">Hydroboration</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Cracking_(chemistry)" title="Cracking (chemistry)">Hydrocarbon cracking</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Hydrohalogenation" title="Hydrohalogenation">Hydrohalogenation</a></li></ul>
-
-<h2>I</h2>
+</details>
+<details>
+<summary><b>I</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Indium_mediated_allylation" class="mw-redirect" title="Indium mediated allylation">Indium mediated allylation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Ing%E2%80%93Manske_procedure" class="mw-redirect" title="Ing–Manske procedure">Ing–Manske procedure</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Ipso_substitution" class="mw-redirect" title="Ipso substitution">Ipso substitution</a></li>
@@ -411,8 +421,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Ishikawa_reagent" title="Ishikawa reagent">Ishikawa reagent</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Isomer" title="Isomer"><i>trans-cis</i> isomerism</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Ivanov_reagent" class="mw-redirect" title="Ivanov reagent">Ivanov reagent</a>, <a href="https://en.wikipedia.org/wiki/Ivanov_reaction" title="Ivanov reaction">Ivanov reaction</a></li></ul>
-
-<h2>J</h2>
+</details>
+<details>
+<summary><b>J</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Jacobsen_epoxidation" title="Jacobsen epoxidation">Jacobsen epoxidation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Jacobsen_rearrangement" title="Jacobsen rearrangement">Jacobsen rearrangement</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Janovsky_reaction" class="mw-redirect" title="Janovsky reaction">Janovsky reaction</a></li>
@@ -424,8 +435,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Jones_oxidation" title="Jones oxidation">Jones oxidation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Jordan%E2%80%93Ullmann%E2%80%93Goldberg_synthesis" class="mw-redirect" title="Jordan–Ullmann–Goldberg synthesis">Jordan–Ullmann–Goldberg synthesis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Julia_olefination" title="Julia olefination">Julia olefination</a>, <a href="https://en.wikipedia.org/wiki/Julia%E2%80%93Lythgoe_olefination" class="mw-redirect" title="Julia–Lythgoe olefination">Julia–Lythgoe olefination</a></li></ul>
-
-<h2>K</h2>
+</details>
+<details>
+<summary><b>K</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Kabachnik%E2%80%93Fields_reaction" title="Kabachnik–Fields reaction">Kabachnik–Fields reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Kharasch%E2%80%93Sosnovsky_reaction" title="Kharasch–Sosnovsky reaction">Kharasch–Sosnovsky reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Keck_asymmetric_allylation" title="Keck asymmetric allylation">Keck asymmetric allylation</a></li>
@@ -457,8 +469,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Kuhn%E2%80%93Winterstein_reaction" class="mw-redirect" title="Kuhn–Winterstein reaction">Kuhn–Winterstein reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Kulinkovich_reaction" title="Kulinkovich reaction">Kulinkovich reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Kumada_coupling" title="Kumada coupling">Kumada coupling</a></li></ul>
-
-<h2>L</h2>
+</details>
+<details>
+<summary><b>L</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Larock_indole_synthesis" title="Larock indole synthesis">Larock indole synthesis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Lawesson%27s_reagent" title="Lawesson&#39;s reagent">Lawesson's reagent</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Lebedev_process" class="mw-redirect" title="Lebedev process">Lebedev process</a></li>
@@ -480,8 +493,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Lossen_rearrangement" title="Lossen rearrangement">Lossen rearrangement</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Lucas%27_reagent" title="Lucas&#39; reagent">Lucas' reagent</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Luche_reduction" title="Luche reduction">Luche reduction</a></li></ul>
-
-<h2>M</h2>
+</details>
+<details>
+<summary><b>M</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Maillard_reaction" title="Maillard reaction">Maillard reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Madelung_synthesis" title="Madelung synthesis">Madelung synthesis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Malaprade_reaction" title="Malaprade reaction">Malaprade reaction</a>, <a href="https://en.wikipedia.org/wiki/Periodic_acid_oxidation" class="mw-redirect" title="Periodic acid oxidation">Periodic acid oxidation</a></li>
@@ -525,8 +539,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Mukaiyama_aldol_addition" title="Mukaiyama aldol addition">Mukaiyama aldol addition</a> (<a href="https://en.wikipedia.org/wiki/Mukaiyama_reaction" class="mw-redirect" title="Mukaiyama reaction">Mukaiyama reaction</a>)</li>
 <li><a href="https://en.wikipedia.org/wiki/Mukaiyama_hydration" title="Mukaiyama hydration">Mukaiyama hydration</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Myers%27_asymmetric_alkylation" class="mw-redirect" title="Myers&#39; asymmetric alkylation">Myers' asymmetric alkylation</a></li></ul>
-
-<h2>N</h2>
+</details>
+<details>
+<summary><b>N</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Nametkin_rearrangement" class="mw-redirect" title="Nametkin rearrangement">Nametkin rearrangement</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Narasaka%E2%80%93Prasad_reduction" title="Narasaka–Prasad reduction">Narasaka–Prasad reduction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Nazarov_cyclization_reaction" title="Nazarov cyclization reaction">Nazarov cyclization reaction</a></li>
@@ -549,8 +564,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Noyori_asymmetric_hydrogenation" title="Noyori asymmetric hydrogenation">Noyori asymmetric hydrogenation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Nozaki%E2%80%93Hiyama%E2%80%93Kishi_reaction" title="Nozaki–Hiyama–Kishi reaction">Nozaki–Hiyama–Kishi reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Nucleophilic_acyl_substitution" title="Nucleophilic acyl substitution">Nucleophilic acyl substitution</a></li></ul>
-
-<h2>O</h2>
+</details>
+<details>
+<summary><b>O</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Ohira%E2%80%93Bestmann_reaction" class="mw-redirect" title="Ohira–Bestmann reaction">Ohira–Bestmann reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Olah_reagent" title="Olah reagent">Olah reagent</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Olefin_metathesis" title="Olefin metathesis">Olefin metathesis</a></li>
@@ -563,8 +579,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Oxymercuration" class="mw-redirect" title="Oxymercuration">Oxymercuration</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Oxidation_of_secondary_alcohols_to_ketones" title="Oxidation of secondary alcohols to ketones">Oxidation of secondary alcohols to ketones</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Ozonolysis" title="Ozonolysis">Ozonolysis</a></li></ul>
-
-<h2>P</h2>
+</details>
+<details>
+<summary><b>P</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Paal%E2%80%93Knorr_pyrrole_synthesis" class="mw-redirect" title="Paal–Knorr pyrrole synthesis">Paal–Knorr pyrrole synthesis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Paal%E2%80%93Knorr_synthesis" title="Paal–Knorr synthesis">Paal–Knorr synthesis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Paneth_technique" class="mw-redirect" title="Paneth technique">Paneth technique</a></li>
@@ -620,11 +637,13 @@
 <li><a href="https://en.wikipedia.org/wiki/Pummerer_rearrangement" title="Pummerer rearrangement">Pummerer rearrangement</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Purdie_methylation" class="mw-redirect" title="Purdie methylation">Purdie methylation</a>, <a href="https://en.wikipedia.org/wiki/Irvine%E2%80%93Purdie_methylation" class="mw-redirect" title="Irvine–Purdie methylation">Irvine–Purdie methylation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/PUREX" title="PUREX">PUREX</a></li></ul>
-
-<h2>Q</h2>
+</details>
+<details>
+<summary><b>Q</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Quelet_reaction" title="Quelet reaction">Quelet reaction</a></li></ul>
-
-<h2>R</h2>
+</details>
+<details>
+<summary><b>R</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Ramberg%E2%80%93B%C3%A4cklund_reaction" title="Ramberg–Bäcklund reaction">Ramberg–Bäcklund reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Raney_nickel" title="Raney nickel">Raney nickel</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Rap%E2%80%93Stoermer_condensation" class="mw-redirect" title="Rap–Stoermer condensation">Rap–Stoermer condensation</a></li>
@@ -659,8 +678,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Rubottom_oxidation" title="Rubottom oxidation">Rubottom oxidation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Ruff%E2%80%93Fenton_degradation" class="mw-redirect" title="Ruff–Fenton degradation">Ruff–Fenton degradation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Ruzicka_large-ring_synthesis" class="mw-redirect" title="Ruzicka large-ring synthesis">Ruzicka large-ring synthesis</a></li></ul>
-
-<h2>S</h2>
+</details>
+<details>
+<summary><b>S</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Saegusa%E2%80%93Ito_oxidation" title="Saegusa–Ito oxidation">Saegusa–Ito oxidation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Sakurai_reaction" title="Sakurai reaction">Sakurai reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Salol_reaction" class="mw-redirect" title="Salol reaction">Salol reaction</a></li>
@@ -733,8 +753,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Swain_equation" title="Swain equation">Swain equation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Swarts_reaction" class="mw-redirect" title="Swarts reaction">Swarts reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Swern_oxidation" title="Swern oxidation">Swern oxidation</a></li></ul>
-
-<h2>T</h2>
+</details>
+<details>
+<summary><b>T</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Tamao_oxidation" class="mw-redirect" title="Tamao oxidation">Tamao oxidation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Tafel_rearrangement" class="mw-redirect" title="Tafel rearrangement">Tafel rearrangement</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Takai_olefination" title="Takai olefination">Takai olefination</a></li>
@@ -761,15 +782,17 @@
 <li><a href="https://en.wikipedia.org/wiki/Tsuji%E2%80%93Wilkinson_decarbonylation_reaction" title="Tsuji–Wilkinson decarbonylation reaction">Tsuji–Wilkinson decarbonylation reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Twitchell_process" class="mw-redirect" title="Twitchell process">Twitchell process</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Tyrer_sulfonation_process" class="mw-redirect" title="Tyrer sulfonation process">Tyrer sulfonation process</a></li></ul>
-
-<h2>U</h2>
+</details>
+<details>
+<summary><b>U</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Ugi_reaction" title="Ugi reaction">Ugi reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Ullmann_reaction" title="Ullmann reaction">Ullmann reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Upjohn_dihydroxylation" title="Upjohn dihydroxylation">Upjohn dihydroxylation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Urech_cyanohydrin_method" class="mw-redirect" title="Urech cyanohydrin method">Urech cyanohydrin method</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Urech_hydantoin_synthesis" title="Urech hydantoin synthesis">Urech hydantoin synthesis</a></li></ul>
-
-<h2>V</h2>
+</details>
+<details>
+<summary><b>V</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Van_Leusen_reaction" title="Van Leusen reaction">Van Leusen reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Van_Slyke_determination" title="Van Slyke determination">Van Slyke determination</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Varrentrapp_reaction" title="Varrentrapp reaction">Varrentrapp reaction</a></li>
@@ -781,8 +804,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Von_Braun_reaction" title="Von Braun reaction">von Braun reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Von_Richter_cinnoline_synthesis" class="mw-redirect" title="Von Richter cinnoline synthesis">von Richter cinnoline synthesis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Von_Richter_reaction" title="Von Richter reaction">von Richter reaction</a></li></ul>
-
-<h2>W</h2>
+</details>
+<details>
+<summary><b>W</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Wacker%E2%80%93Tsuji_oxidation" class="mw-redirect" title="Wacker–Tsuji oxidation">Wacker–Tsuji oxidation</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Wagner-Jauregg_reaction" title="Wagner-Jauregg reaction">Wagner-Jauregg reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Wagner%E2%80%93Meerwein_rearrangement" title="Wagner–Meerwein rearrangement">Wagner–Meerwein rearrangement</a></li>
@@ -821,12 +845,14 @@
 <li><a href="https://en.wikipedia.org/wiki/Wulff%E2%80%93D%C3%B6tz_reaction" title="Wulff–Dötz reaction">Wulff–Dötz reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Wurtz_coupling" class="mw-redirect" title="Wurtz coupling">Wurtz coupling</a>, <a href="https://en.wikipedia.org/wiki/Wurtz_reaction" title="Wurtz reaction">Wurtz reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Wurtz%E2%80%93Fittig_reaction" title="Wurtz–Fittig reaction">Wurtz–Fittig reaction</a></li></ul>
-
-<h2>Y</h2>
+</details>
+<details>
+<summary><b>Y</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Purine" title="Purine">Yamada–Okamoto purine synthesis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Yamaguchi_esterification" title="Yamaguchi esterification">Yamaguchi esterification</a></li></ul>
-
-<h2>Z</h2>
+</details>
+<details>
+<summary><b>Z</b></summary>
 <ul><li><a href="https://en.wikipedia.org/wiki/Zaitsev%27s_rule" title="Zaitsev&#39;s rule">Zaitsev's rule</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Zeisel_determination" title="Zeisel determination">Zeisel determination</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Zerevitinov_determination" class="mw-redirect" title="Zerevitinov determination">Zerevitinov determination</a>, <a href="https://en.wikipedia.org/wiki/Zerewitinoff_determination" title="Zerewitinoff determination">Zerewitinoff determination</a></li>
@@ -838,3 +864,4 @@
 <li><a href="https://en.wikipedia.org/wiki/Zincke_reaction" title="Zincke reaction">Zincke reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Zincke%E2%80%93Suhl_reaction" title="Zincke–Suhl reaction">Zincke–Suhl reaction</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Zinin_reduction" class="mw-redirect" title="Zinin reduction">Zinin reduction</a></li></ul>
+</details>
