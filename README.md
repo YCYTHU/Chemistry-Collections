@@ -15,3 +15,5 @@
 ### **[Electronic transition animation](https://github.com/Jatro-Tao/Chemistry-Collections/blob/main/Electronic%20transition/Electronic-transition.md)**
 
 ### **[Hybrid orbitals](https://github.com/Jatro-Tao/Chemistry-Collections/blob/main/Hybrid%20orbitals/Hybrid-orbitals.md)**
+
+### **[Name reactions](https://github.com/Jatro-Tao/Chemistry-Collections/blob/main/Name%20reactions/Name-reactions.md)**
