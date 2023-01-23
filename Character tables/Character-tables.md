@@ -497,7 +497,7 @@ x-axis align with $\rm C_2$
 <details>
 <summary>$\ \bf D_{2h}$</summary>
 
-|         | $\bf E$ |  ${\bf C_2}(z)$ |${\bf C_2}(y)$ | ${\bf C_2(x)}$ |$\bf i$| ${\bf \boldsymbol\sigma}(xy)$ | ${\bf \boldsymbol\sigma}(xz)$| ${\bf \boldsymbol\sigma}(yz)$|Linear , Rotations|      Quadratic  |     Cubic   |
+|         | $\bf E$ |  ${\bf C_2}(z)$ |${\bf C_2}(y)$ | ${\bf C_2}(x)$ |$\bf i$| ${\bf \boldsymbol\sigma}(xy)$ | ${\bf \boldsymbol\sigma}(xz)$| ${\bf \boldsymbol\sigma}(yz)$|Linear , Rotations|      Quadratic  |     Cubic   |
 |  :---:    |  :---:  |   :---:     |  :---:    |    :---:     |     :---:    |    :---:   | :---:  |   :---:   |  :---:      |   :---:   |  :---:      |
 | $\bf A_g$    |    1    |      1     |       1  |       1      |   1  |    1    |  1   |   1     |  |  $x^2,y^2,z^2$   | |
 | $\bf B_{1g}$ |    1    |     1      |     -1   |      -1      |   1  |    1    |  -1  |  -1     |  $R_z$   |  $xy$  | |
