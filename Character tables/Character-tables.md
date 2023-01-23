@@ -494,6 +494,32 @@ x-axis align with $\rm C_2$
 
 ## $\rm D_{nh}\text{ groups}$
 
+<details>
+<summary>$\ \bf D_{2h}$</summary>
+
+|         | $\bf E$ |  ${\bf C_2}(z)$ |${\bf C_2}(y)$ | ${\bf C_2(x)}$ |$\bf i$| ${\bf \boldsymbol\sigma}(xy)$ | ${\bf \boldsymbol\sigma}(xz)$| ${\bf \boldsymbol\sigma}(yz)$|Linear , Rotations|      Quadratic  |     Cubic   |
+|  :---:    |  :---:  |   :---:     |  :---:    |    :---:     |     :---:    |    :---:   | :---:  |   :---:   |  :---:      |   :---:   |  :---:      |
+| $\bf A_g$    |    1    |      1     |       1  |       1      |   1  |    1    |  1   |   1     |  |  $x^2,y^2,z^2$   | |
+| $\bf B_{1g}$ |    1    |     1      |     -1   |      -1      |   1  |    1    |  -1  |  -1     |  $R_z$   |  $xy$  | |
+| $\bf B_{2g}$ |    1    |    -1      |      1   |      -1      |   1  |    -1   |   1  |  -1     |  $R_y$   |  $xz$  | |
+| $\bf B_{3g}$ |    1    |    -1      |     -1   |       1      |   1  |    -1   |  -1  |   1     |  $R_x$   |  $yz$  | |
+| $\bf A_u$    |    1    |     1      |      1   |       1      |  -1  |   -1    |  -1  |  -1     |     |  |  $xyz$   |
+| $\bf B_{1u}$ |    1    |    1       |     -1   |      -1      |  -1  |    -1   |   1  |   1     | $z$  |  |  $z^3,y^2z,x^2z$   |
+| $\bf B_{2u}$ |    1    |   -1       |      1   |      -1      |  -1  |     1   |  -1  |   1     | $y$  |  |  $yz^2,y^3,x^2y$   |
+| $\bf B_{3u}$ |    1    |   -1       |     -1   |       1      |  -1  |     1   |   1  |  -1     | $x$  |  |  $xz^2,xy^2,x^3$   
+  
+|              | $\bf A_g$  | $\bf B_{1g}$ | $\bf B_{2g}$ | $\bf B_{3g}$ |  $\bf A_u$ |  $\bf B_{1u}$  | $\bf B_{2u}$  | $\bf B_{3u}$  | 
+|  :---:       | :---:      | :---:        |     :---:    |     :---:    |     :---:  |     :---:      |     :---:     |     :---:     |
+| $\bf A_g$    | $\rm A_g$  |  $\rm B_{1g}$| $\rm B_{2g}$ | $\rm B_{3g}$ |  $\rm A_u$ |   $\rm B_{1u}$ |  $\rm B_{2u}$ |  $\rm B_{3u}$ | 
+| $\bf B_{1g}$ |$\rm B_{1g}$|  $\rm A_g$   | $\rm B_{3g}$ |  $\rm B_{2g}$|$\rm B_{1u}$|  $\rm A_u$     |  $\rm B_{3u}$ |  $\rm B_{2u}$ |
+| $\bf B_{2g}$ |$\rm B_{2g}$|  $\rm B_{3g}$| $\rm A_g$    |  $\rm B_{1g}$|$\rm B_{2u}$|  $\rm B_{3u}$  |  $\rm A_u$    |  $\rm B_{1u}$ |
+| $\bf B_{3g}$ |$\rm B_{3g}$|  $\rm B_{2g}$| $\rm B_{1g}$ |  $\rm A_g$   |$\rm B_{3u}$|  $\rm B_{2u}$  |  $\rm B_{1u}$ |  $\rm A_u$    |
+| $\bf A_u$    |  $\rm A_u$ |   $\rm B_{1u}$ |  $\rm B_{2u}$ |  $\rm B_{3u}$ | $\rm A_g$  |  $\rm B_{1g}$| $\rm B_{2g}$ | $\rm B_{3g}$ |
+| $\bf B_{1u}$ |$\rm B_{1u}$|  $\rm A_u$     |  $\rm B_{3u}$ |  $\rm B_{2u}$ |$\rm B_{1g}$|  $\rm A_g$   | $\rm B_{3g}$ |  $\rm B_{2g}$|
+| $\bf B_{2u}$ |$\rm B_{2u}$|  $\rm B_{3u}$  |  $\rm A_u$    |  $\rm B_{1u}$ |$\rm B_{2g}$|  $\rm B_{3g}$| $\rm A_g$    |  $\rm B_{1g}$|
+| $\bf B_{3u}$ |$\rm B_{3u}$|  $\rm B_{2u}$  |  $\rm B_{1u}$ |  $\rm A_u$    |$\rm B_{3g}$|  $\rm B_{2g}$| $\rm B_{1g}$ |  $\rm A_g$   |
+</details>
+
 ## $\rm S_n\text{ groups}$
 
 <details>
