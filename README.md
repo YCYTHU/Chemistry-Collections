@@ -4,6 +4,8 @@
 
 ### **[Atomic orbitals](https://github.com/Jatro-Tao/Chemistry-Collections/blob/main/Atomic%20orbitals/Atomic-orbitals.md)**
 
+### **[Bond dissociation energy](https://github.com/Jatro-Tao/Chemistry-Collections/blob/main/Bond%20dissociation%20energy/Bond-dissociation-energy.md)**
+
 ### **[Bond lengths data](https://github.com/Jatro-Tao/Chemistry-Related-Lists/blob/main/Bond%20lengths/Bond-lengths.md)**
 
 ### **[Bonding & Antibonding orbitals](https://github.com/Jatro-Tao/Chemistry-Related-Lists/blob/main/Bond%20orbitals/Bond-orbitals.md)** <!--Files are in Bond orbitals-->
