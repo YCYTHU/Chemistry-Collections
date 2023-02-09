@@ -1,6 +1,6 @@
 # Crystal-Field-Splitting-Diagram
 ## Function  
-This is a MATLAB function to compute Crystal field splitting diagram, please see [Crystal field splitting diagrams](https://doi.org/10.1021/ed041p257) for more details about the algorithm.  
+[This is a MATLAB function](https://github.com/Jatro-Tao/Chemistry-Collections/blob/main/Crystal%20field%20splitting%20diagram/crystal_field_splitting_diagram.m) to compute Crystal field splitting diagram, please see [Crystal field splitting diagrams](https://doi.org/10.1021/ed041p257) for more details about the algorithm.  
 
 **Input = Elevation and Azimuth of ligands**  
 ```
