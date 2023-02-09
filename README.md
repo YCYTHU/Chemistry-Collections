@@ -12,6 +12,8 @@
 
 ### **[Character tables & Product tables](https://github.com/Jatro-Tao/Chemistry-Related-Lists/blob/main/Character%20tables/Character-tables.md)**
 
+### **[Crystal field splitting diagram](https://github.com/Jatro-Tao/Chemistry-Collections/blob/main/Crystal%20field%20splitting%20diagram/README.md)**
+
 ### **[Electron cloud](https://github.com/Jatro-Tao/Chemistry-Collections/blob/main/Electron%20cloud/Electron-cloud.md)**
 
 ### **[Electronic transition animation](https://github.com/Jatro-Tao/Chemistry-Collections/blob/main/Electronic%20transition/Electronic-transition.md)**
