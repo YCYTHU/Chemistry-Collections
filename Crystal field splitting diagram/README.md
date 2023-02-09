@@ -38,7 +38,8 @@ Symbolic Energy=
 
 \left(\begin{array}{c} 4\,\alpha _{0}+\frac{8\,\alpha _{4}}{27}\\ 4\,\alpha _{0}+\frac{8\,\alpha _{4}}{27}\\ 4\,\alpha _{0}+\frac{8\,\alpha _{4}}{27}\\ 4\,\alpha _{0}-\frac{4\,\alpha _{4}}{9}\\ 4\,\alpha _{0}-\frac{4\,\alpha _{4}}{9} \end{array}\right)
 ```  
-![Tetrahedron](https://github.com/Jatro-Tao/Crystal-Field-Splitting-Diagram/blob/main/Image/Tetrahedron.svg "Tetrahedron")  
+![Tetrahedron](https://github.com/Jatro-Tao/Chemistry-Collections/blob/main/Crystal%20field%20splitting%20diagram/Image/Tetrahedron.svg "Tetrahedron")  
+
 ---
 ### Octahedron
 - **Input =**
@@ -64,7 +65,7 @@ Symbolic Energy=
 
 \left(\begin{array}{c} 6\,\alpha _{0}-\frac{2\,\alpha _{4}}{3}\\ 6\,\alpha _{0}-\frac{2\,\alpha _{4}}{3}\\ 6\,\alpha _{0}-\frac{2\,\alpha _{4}}{3}\\ 6\,\alpha _{0}+\alpha _{4}\\ 6\,\alpha _{0}+\alpha _{4} \end{array}\right)
 ```
-![Octahedron](https://github.com/Jatro-Tao/Crystal-Field-Splitting-Diagram/blob/main/Image/Octahedron.svg "Octahedron")  
+![Octahedron](https://github.com/Jatro-Tao/Chemistry-Collections/blob/main/Crystal%20field%20splitting%20diagram/Image/Octahedron.svg "Octahedron")  
 ---
 ### Triangular bipyramid
 - **Input =**
@@ -90,4 +91,4 @@ Symbolic Energy=
 
 \left(\begin{array}{c} 5\,\alpha _{0}-\frac{\alpha _{2}}{7}+\frac{25\,\alpha _{4}}{168}\\ 5\,\alpha _{0}-\frac{\alpha _{2}}{7}+\frac{25\,\alpha _{4}}{168}\\ 5\,\alpha _{0}+\frac{\alpha _{2}}{14}-\frac{25\,\alpha _{4}}{42}\\ 5\,\alpha _{0}+\frac{\alpha _{2}}{14}-\frac{25\,\alpha _{4}}{42}\\ 5\,\alpha _{0}+\frac{\alpha _{2}}{7}+\frac{25\,\alpha _{4}}{28} \end{array}\right)
 ```
-![Triangular bipyramid](https://github.com/Jatro-Tao/Crystal-Field-Splitting-Diagram/blob/main/Image/Triangular%20bipyramid.svg "Triangular bipyramid")
+![Triangular bipyramid](https://github.com/Jatro-Tao/Chemistry-Collections/blob/main/Crystal%20field%20splitting%20diagram/Image/Triangular%20bipyramid.svg "Triangular bipyramid")
